@@ -2,15 +2,23 @@ import json
 import psycopg2
 from datetime import datetime
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
 # Load data
 with open("/opt/airflow/data/crypto.json") as f:
     data = json.load(f)
 
+
+
 conn = psycopg2.connect(
-    host="postgres",
-    database="airflow",
-    user="airflow",
-    password="airflow"
+    host=os.getenv("POSTGRES_HOST"),
+    port=os.getenv("POSTGRES_PORT"),
+    database=os.getenv("POSTGRES_DB"),
+    user=os.getenv("POSTGRES_USER"),
+    password=os.getenv("POSTGRES_PASSWORD")
 )
 
 cur = conn.cursor()

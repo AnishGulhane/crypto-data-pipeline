@@ -2,7 +2,13 @@ import streamlit as st
 import pandas as pd
 import psycopg2
 import plotly.graph_objects as go
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
 from streamlit_autorefresh import st_autorefresh
+
 
 # =========================
 # CONFIG
@@ -58,18 +64,27 @@ st.markdown(f"""
 # =========================
 # DB
 # =========================
+
+
 conn = psycopg2.connect(
-    host="localhost",
-    port="5433",
-    database="airflow",
-    user="airflow",
-    password="airflow"
+    host=os.getenv("POSTGRES_HOST"),
+    port=os.getenv("POSTGRES_PORT"),
+    database=os.getenv("POSTGRES_DB"),
+    user=os.getenv("POSTGRES_USER"),
+    password=os.getenv("POSTGRES_PASSWORD")
 )
+
+#df = pd.read_sql("SELECT * FROM crypto_raw ORDER BY processed_at ASC;", conn)
+#conn.close()
+
+#df["processed_at"] = pd.to_datetime(df["processed_at"])
 
 df = pd.read_sql("SELECT * FROM crypto_raw ORDER BY processed_at ASC;", conn)
 conn.close()
 
-df["processed_at"] = pd.to_datetime(df["processed_at"])
+#  FIX TIMEZONE HERE
+df["processed_at"] = pd.to_datetime(df["processed_at"], utc=True)
+df["processed_at"] = df["processed_at"].dt.tz_convert("Asia/Kolkata")
 
 # =========================
 # SIDEBAR

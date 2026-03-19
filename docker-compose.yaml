@@ -90,10 +90,13 @@ x-airflow-common:
 services:
   postgres:
     image: postgres:13
+    
+
     environment:
-      POSTGRES_USER: airflow
-      POSTGRES_PASSWORD: airflow
-      POSTGRES_DB: airflow
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+
     ports:
       - "5433:5432"
     volumes:
@@ -104,6 +107,9 @@ services:
       retries: 5
       start_period: 5s
     restart: always
+    env_file:
+      - .env
+
 
   redis:
     # Redis is limited to 7.2-bookworm due to licencing change
@@ -118,6 +124,9 @@ services:
       retries: 50
       start_period: 30s
     restart: always
+    env_file:
+      - .env
+
 
   airflow-webserver:
     <<: *airflow-common
@@ -135,7 +144,8 @@ services:
       <<: *airflow-common-depends-on
       airflow-init:
         condition: service_completed_successfully
-
+    env_file:
+      - .env
   airflow-scheduler:
     <<: *airflow-common
     command: scheduler
@@ -150,7 +160,8 @@ services:
       <<: *airflow-common-depends-on
       airflow-init:
         condition: service_completed_successfully
-
+    env_file:
+      - .env
   airflow-worker:
     <<: *airflow-common
     command: celery worker
@@ -173,6 +184,9 @@ services:
       <<: *airflow-common-depends-on
       airflow-init:
         condition: service_completed_successfully
+    env_file:
+      - .env
+
 
   airflow-triggerer:
     <<: *airflow-common
@@ -188,6 +202,9 @@ services:
       <<: *airflow-common-depends-on
       airflow-init:
         condition: service_completed_successfully
+    env_file:
+      - .env
+
 
   airflow-init:
     <<: *airflow-common

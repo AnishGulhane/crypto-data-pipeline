@@ -19,7 +19,7 @@ def log(message):
         f.write(line + "\n")
 
 
-# ✅ UPDATED WITH RETRY
+#  UPDATED WITH RETRY
 def run_step(command, step_name, retries=2):
     for attempt in range(retries + 1):
         log(f"START: {step_name} (Attempt {attempt+1})")
@@ -32,11 +32,11 @@ def run_step(command, step_name, retries=2):
         else:
             log(f"FAILED: {step_name} (Attempt {attempt+1})")
     
-    log(f"❌ FINAL FAILURE: {step_name}")
+    log(f" FINAL FAILURE: {step_name}")
     exit(1)
 
 
-log("🚀 Pipeline started")
+log(" Pipeline started")
 
 # Fetch
 run_step(
@@ -56,4 +56,4 @@ run_step(
     "Transform Data"
 )
 
-log("🎉 Pipeline finished successfully")
+log(" Pipeline finished successfully")

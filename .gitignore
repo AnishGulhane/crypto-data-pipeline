@@ -1,6 +1,18 @@
-venv/
+# Python
 __pycache__/
 *.pyc
-.env
-.DS_Store
 
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Airflow logs
+logs/
+
+# Data files
+data/*.json
+
+# Mac
+.DS_Store
