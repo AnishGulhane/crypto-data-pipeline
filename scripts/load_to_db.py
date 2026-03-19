@@ -26,7 +26,7 @@ CREATE TABLE IF NOT EXISTS crypto_raw (
 
 now = datetime.utcnow()
 
-# ✅ Insert multiple coins
+#  Insert multiple coins
 for coin, value in data.items():
     cur.execute("""
         INSERT INTO crypto_raw (coin, price_usd, processed_at)
@@ -37,4 +37,4 @@ conn.commit()
 cur.close()
 conn.close()
 
-print("✅ Data loaded into database")
+print(" Data loaded into database")

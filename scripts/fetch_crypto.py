@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-# ✅ Add more coins here
+#  Add more coins here
 COINS = ["bitcoin", "ethereum", "solana", "cardano", "dogecoin"]
 
 url = "https://api.coingecko.com/api/v3/simple/price"
@@ -24,9 +24,9 @@ try:
     with open("/opt/airflow/data/crypto.json", "w") as f:
         json.dump(data, f)
 
-    print("✅ Data saved:", data)
+    print(" Data saved:", data)
 
-    # ✅ prevent rate limit
+    #  prevent rate limit
     time.sleep(5)
 
 except Exception as e:
