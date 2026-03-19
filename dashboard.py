@@ -137,6 +137,28 @@ def auto_scale(fig, data):
     fig.update_yaxes(range=[y_min - pad, y_max + pad])
 
 # =========================
+# CANDLESTICK HELPER
+# =========================
+def create_candlestick(df, coin, timeframe):
+    coin_df = df[df["coin"] == coin].copy()
+    coin_df = coin_df.sort_values("processed_at")
+
+    coin_df.set_index("processed_at", inplace=True)
+
+    tf_map = {
+        "1 Min": "1Min",
+        "5 Min": "5Min",
+        "15 Min": "15Min",
+        "1 Hour": "1H"
+    }
+
+    rule = tf_map.get(timeframe, "1Min")
+
+    ohlc = coin_df["price_usd"].resample(rule).ohlc().dropna()
+
+    return ohlc
+
+# =========================
 # MARKET VIEW
 # =========================
 if view == "Market":
@@ -207,13 +229,40 @@ if view == "Market":
 
                 st.plotly_chart(fig, use_container_width=True)
 
+        # =========================
+        # CANDLESTICK SECTION (NEW)
+        # =========================
+        st.markdown("### 🕯️ Candlestick Charts")
+
+        for c in selected:
+            ohlc = create_candlestick(df_filtered, c, timeframe)
+
+            if not ohlc.empty:
+                fig = go.Figure(data=[go.Candlestick(
+                    x=ohlc.index,
+                    open=ohlc['open'],
+                    high=ohlc['high'],
+                    low=ohlc['low'],
+                    close=ohlc['close'],
+                    increasing_line_color='#30d158',
+                    decreasing_line_color='#ff453a'
+                )])
+
+                fig.update_layout(
+                    title=f"{c.upper()} Candlestick",
+                    template="plotly_dark" if is_dark else "plotly_white",
+                    height=400,
+                    margin=dict(l=10, r=10, t=40, b=10)
+                )
+
+                st.plotly_chart(fig, use_container_width=True)
+
     # =========================
-    # ADVANCED ANALYTICS (FIXED)
+    # ADVANCED ANALYTICS
     # =========================
     st.markdown("---")
     st.subheader("📈 Advanced Analytics")
 
-    # Normalized
     norm_df = pivot_df / pivot_df.iloc[0] * 100
 
     fig_norm = go.Figure()
@@ -234,7 +283,6 @@ if view == "Market":
 
     st.plotly_chart(fig_norm, use_container_width=True)
 
-    # % Change
     pct_df = pivot_df.pct_change() * 100
 
     fig_pct = go.Figure()

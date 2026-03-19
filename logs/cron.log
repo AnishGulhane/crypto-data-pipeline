@@ -3832,3 +3832,138 @@ FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypt
 2026-03-19 13:30:01.670585 - START: Load to DB (Attempt 3)
 2026-03-19 13:30:01.781201 - FAILED: Load to DB (Attempt 3)
 2026-03-19 13:30:01.781614 - ❌ FINAL FAILURE: Load to DB
+Fetching crypto data...
+Error fetching data: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+2026-03-19 13:35:00.214369 - 🚀 Pipeline started
+2026-03-19 13:35:00.214986 - START: Fetch Data (Attempt 1)
+2026-03-19 13:35:01.123316 - SUCCESS: Fetch Data
+2026-03-19 13:35:01.124281 - START: Load to DB (Attempt 1)
+2026-03-19 13:35:01.261741 - FAILED: Load to DB (Attempt 1)
+2026-03-19 13:35:01.262139 - START: Load to DB (Attempt 2)
+2026-03-19 13:35:01.377353 - FAILED: Load to DB (Attempt 2)
+2026-03-19 13:35:01.377817 - START: Load to DB (Attempt 3)
+2026-03-19 13:35:01.494715 - FAILED: Load to DB (Attempt 3)
+2026-03-19 13:35:01.495118 - ❌ FINAL FAILURE: Load to DB
+Fetching crypto data...
+Error fetching data: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+2026-03-19 13:40:00.989607 - 🚀 Pipeline started
+2026-03-19 13:40:00.990250 - START: Fetch Data (Attempt 1)
+2026-03-19 13:40:01.930873 - SUCCESS: Fetch Data
+2026-03-19 13:40:01.931445 - START: Load to DB (Attempt 1)
+2026-03-19 13:40:02.068210 - FAILED: Load to DB (Attempt 1)
+2026-03-19 13:40:02.068675 - START: Load to DB (Attempt 2)
+2026-03-19 13:40:02.180668 - FAILED: Load to DB (Attempt 2)
+2026-03-19 13:40:02.181047 - START: Load to DB (Attempt 3)
+2026-03-19 13:40:02.289689 - FAILED: Load to DB (Attempt 3)
+2026-03-19 13:40:02.290122 - ❌ FINAL FAILURE: Load to DB
+Fetching crypto data...
+Error fetching data: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+2026-03-19 13:45:00.746478 - 🚀 Pipeline started
+2026-03-19 13:45:00.747190 - START: Fetch Data (Attempt 1)
+2026-03-19 13:45:03.354479 - SUCCESS: Fetch Data
+2026-03-19 13:45:03.355101 - START: Load to DB (Attempt 1)
+2026-03-19 13:45:03.563825 - FAILED: Load to DB (Attempt 1)
+2026-03-19 13:45:03.564310 - START: Load to DB (Attempt 2)
+2026-03-19 13:45:03.685837 - FAILED: Load to DB (Attempt 2)
+2026-03-19 13:45:03.686299 - START: Load to DB (Attempt 3)
+2026-03-19 13:45:03.814064 - FAILED: Load to DB (Attempt 3)
+2026-03-19 13:45:03.814471 - ❌ FINAL FAILURE: Load to DB
+Fetching crypto data...
+Error fetching data: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+2026-03-19 13:50:01.142102 - 🚀 Pipeline started
+2026-03-19 13:50:01.142669 - START: Fetch Data (Attempt 1)
+2026-03-19 13:50:02.118907 - SUCCESS: Fetch Data
+2026-03-19 13:50:02.119403 - START: Load to DB (Attempt 1)
+2026-03-19 13:50:02.244463 - FAILED: Load to DB (Attempt 1)
+2026-03-19 13:50:02.244820 - START: Load to DB (Attempt 2)
+2026-03-19 13:50:02.359580 - FAILED: Load to DB (Attempt 2)
+2026-03-19 13:50:02.360036 - START: Load to DB (Attempt 3)
+2026-03-19 13:50:02.478402 - FAILED: Load to DB (Attempt 3)
+2026-03-19 13:50:02.478894 - ❌ FINAL FAILURE: Load to DB
+Fetching crypto data...
+Error fetching data: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+Traceback (most recent call last):
+  File "/Users/anishgulhane/data-engineering-project/scripts/load_to_db.py", line 6, in <module>
+    with open("/opt/airflow/data/crypto.json") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/data/crypto.json'
+2026-03-19 13:55:00.907464 - 🚀 Pipeline started
+2026-03-19 13:55:00.908191 - START: Fetch Data (Attempt 1)
+2026-03-19 13:55:02.310814 - SUCCESS: Fetch Data
+2026-03-19 13:55:02.311423 - START: Load to DB (Attempt 1)
+2026-03-19 13:55:02.493099 - FAILED: Load to DB (Attempt 1)
+2026-03-19 13:55:02.493542 - START: Load to DB (Attempt 2)
+2026-03-19 13:55:02.644278 - FAILED: Load to DB (Attempt 2)
+2026-03-19 13:55:02.644656 - START: Load to DB (Attempt 3)
+2026-03-19 13:55:02.853584 - FAILED: Load to DB (Attempt 3)
+2026-03-19 13:55:02.854055 - ❌ FINAL FAILURE: Load to DB
