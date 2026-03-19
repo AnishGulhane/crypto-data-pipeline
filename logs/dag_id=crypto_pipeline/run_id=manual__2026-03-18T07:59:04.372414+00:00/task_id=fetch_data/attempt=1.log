@@ -1,0 +1,26 @@
+[2026-03-18T07:59:06.436+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-03-18T07:59:06.447+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: crypto_pipeline.fetch_data manual__2026-03-18T07:59:04.372414+00:00 [queued]>
+[2026-03-18T07:59:06.451+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: crypto_pipeline.fetch_data manual__2026-03-18T07:59:04.372414+00:00 [queued]>
+[2026-03-18T07:59:06.451+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2026-03-18T07:59:06.458+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): fetch_data> on 2026-03-18 07:59:04.372414+00:00
+[2026-03-18T07:59:06.469+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=130) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2026-03-18T07:59:06.471+0000] {standard_task_runner.py:63} INFO - Started process 132 to run task
+[2026-03-18T07:59:06.469+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'crypto_pipeline', 'fetch_data', 'manual__2026-03-18T07:59:04.372414+00:00', '--job-id', '17', '--raw', '--subdir', 'DAGS_FOLDER/crypto_pipeline_dag.py', '--cfg-path', '/tmp/tmpjj13obcs']
+[2026-03-18T07:59:06.472+0000] {standard_task_runner.py:91} INFO - Job 17: Subtask fetch_data
+[2026-03-18T07:59:06.513+0000] {task_command.py:426} INFO - Running <TaskInstance: crypto_pipeline.fetch_data manual__2026-03-18T07:59:04.372414+00:00 [running]> on host b022b501df4a
+[2026-03-18T07:59:06.602+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='anish' AIRFLOW_CTX_DAG_ID='crypto_pipeline' AIRFLOW_CTX_TASK_ID='fetch_data' AIRFLOW_CTX_EXECUTION_DATE='2026-03-18T07:59:04.372414+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-03-18T07:59:04.372414+00:00'
+[2026-03-18T07:59:06.604+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-03-18T07:59:06.605+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2026-03-18T07:59:06.607+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /opt/***/scripts/fetch_crypto.py']
+[2026-03-18T07:59:06.613+0000] {subprocess.py:86} INFO - Output:
+[2026-03-18T07:59:07.968+0000] {subprocess.py:93} INFO - Fetching crypto data...
+[2026-03-18T07:59:07.970+0000] {subprocess.py:93} INFO - Data saved to /opt/***/data/crypto.json
+[2026-03-18T07:59:07.971+0000] {subprocess.py:93} INFO - Data fetched: {'bitcoin': {'usd': 73880}, 'ethereum': {'usd': 2317.89}}
+[2026-03-18T07:59:07.992+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2026-03-18T07:59:07.993+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-03-18T07:59:08.013+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=crypto_pipeline, task_id=fetch_data, run_id=manual__2026-03-18T07:59:04.372414+00:00, execution_date=20260318T075904, start_date=20260318T075906, end_date=20260318T075908
+[2026-03-18T07:59:08.049+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-03-18T07:59:08.074+0000] {taskinstance.py:3498} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2026-03-18T07:59:08.075+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

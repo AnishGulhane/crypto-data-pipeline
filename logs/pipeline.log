@@ -1,0 +1,1279 @@
+2026-03-18 01:20:27.074646 - 🚀 Pipeline started
+2026-03-18 01:20:27.074827 - START: Fetch Data
+2026-03-18 01:20:27.753011 - SUCCESS: Fetch Data
+2026-03-18 01:20:27.753442 - START: Load to DB
+2026-03-18 01:20:28.392510 - SUCCESS: Load to DB
+2026-03-18 01:20:28.392702 - START: Transform Data
+2026-03-18 01:20:28.429010 - SUCCESS: Transform Data
+2026-03-18 01:20:28.429203 - 🎉 Pipeline finished successfully
+2026-03-18 01:40:01.262244 - 🚀 Pipeline started
+2026-03-18 01:40:01.262904 - START: Fetch Data
+2026-03-18 01:40:02.137521 - SUCCESS: Fetch Data
+2026-03-18 01:40:02.138096 - START: Load to DB
+2026-03-18 01:40:03.945880 - SUCCESS: Load to DB
+2026-03-18 01:40:03.946504 - START: Transform Data
+2026-03-18 01:40:03.958609 - FAILED: Transform Data
+2026-03-18 01:45:00.376494 - 🚀 Pipeline started
+2026-03-18 01:45:00.377041 - START: Fetch Data
+2026-03-18 01:45:01.252609 - SUCCESS: Fetch Data
+2026-03-18 01:45:01.253151 - START: Load to DB
+2026-03-18 01:45:02.956734 - SUCCESS: Load to DB
+2026-03-18 01:45:02.957315 - START: Transform Data
+2026-03-18 01:45:02.968494 - FAILED: Transform Data
+2026-03-18 01:50:00.659146 - 🚀 Pipeline started
+2026-03-18 01:50:00.659700 - START: Fetch Data
+2026-03-18 01:50:01.548972 - SUCCESS: Fetch Data
+2026-03-18 01:50:01.549390 - START: Load to DB
+2026-03-18 01:50:03.230927 - SUCCESS: Load to DB
+2026-03-18 01:50:03.231468 - START: Transform Data
+2026-03-18 01:50:03.243190 - FAILED: Transform Data
+2026-03-18 01:55:00.865106 - 🚀 Pipeline started
+2026-03-18 01:55:00.865645 - START: Fetch Data
+2026-03-18 01:55:01.708707 - SUCCESS: Fetch Data
+2026-03-18 01:55:01.709492 - START: Load to DB
+2026-03-18 01:55:03.363767 - SUCCESS: Load to DB
+2026-03-18 01:55:03.364368 - START: Transform Data
+2026-03-18 01:55:03.375273 - FAILED: Transform Data
+2026-03-18 02:00:00.774103 - 🚀 Pipeline started
+2026-03-18 02:00:00.774635 - START: Fetch Data
+2026-03-18 02:00:01.649433 - SUCCESS: Fetch Data
+2026-03-18 02:00:01.649942 - START: Load to DB
+2026-03-18 02:00:03.599234 - SUCCESS: Load to DB
+2026-03-18 02:00:03.600078 - START: Transform Data
+2026-03-18 02:00:03.611616 - FAILED: Transform Data
+2026-03-18 02:05:00.898177 - 🚀 Pipeline started
+2026-03-18 02:05:00.898685 - START: Fetch Data
+2026-03-18 02:05:01.783110 - SUCCESS: Fetch Data
+2026-03-18 02:05:01.783612 - START: Load to DB
+2026-03-18 02:05:03.497785 - SUCCESS: Load to DB
+2026-03-18 02:05:03.498425 - START: Transform Data
+2026-03-18 02:05:03.508182 - FAILED: Transform Data
+2026-03-18 02:10:00.916216 - 🚀 Pipeline started
+2026-03-18 02:10:00.916699 - START: Fetch Data
+2026-03-18 02:10:00.930906 - FAILED: Fetch Data
+2026-03-18 02:15:00.422970 - 🚀 Pipeline started
+2026-03-18 02:15:00.423640 - START: Fetch Data
+2026-03-18 02:15:00.435641 - FAILED: Fetch Data
+2026-03-18 02:20:00.998699 - 🚀 Pipeline started
+2026-03-18 02:20:00.999226 - START: Fetch Data
+2026-03-18 02:20:01.010877 - FAILED: Fetch Data
+2026-03-18 02:25:00.334014 - 🚀 Pipeline started
+2026-03-18 02:25:00.334448 - START: Fetch Data
+2026-03-18 02:25:01.194978 - SUCCESS: Fetch Data
+2026-03-18 02:25:01.195498 - START: Load to DB
+2026-03-18 02:25:02.970463 - SUCCESS: Load to DB
+2026-03-18 02:25:02.971416 - START: Transform Data
+2026-03-18 02:25:02.983195 - FAILED: Transform Data
+2026-03-18 02:30:00.425961 - 🚀 Pipeline started
+2026-03-18 02:30:00.426626 - START: Fetch Data
+2026-03-18 02:30:01.272348 - SUCCESS: Fetch Data
+2026-03-18 02:30:01.272948 - START: Load to DB
+2026-03-18 02:30:03.032642 - SUCCESS: Load to DB
+2026-03-18 02:30:03.033203 - START: Transform Data
+2026-03-18 02:30:03.044230 - FAILED: Transform Data
+2026-03-18 02:35:00.390127 - 🚀 Pipeline started
+2026-03-18 02:35:00.390749 - START: Fetch Data
+2026-03-18 02:35:01.667503 - SUCCESS: Fetch Data
+2026-03-18 02:35:01.668074 - START: Load to DB
+2026-03-18 02:35:03.392554 - SUCCESS: Load to DB
+2026-03-18 02:35:03.393326 - START: Transform Data
+2026-03-18 02:35:03.404397 - FAILED: Transform Data
+2026-03-18 02:40:00.745445 - 🚀 Pipeline started
+2026-03-18 02:40:00.745870 - START: Fetch Data
+2026-03-18 02:40:01.654952 - SUCCESS: Fetch Data
+2026-03-18 02:40:01.655713 - START: Load to DB
+2026-03-18 02:40:03.144845 - SUCCESS: Load to DB
+2026-03-18 02:40:03.145324 - START: Transform Data
+2026-03-18 02:40:03.210074 - SUCCESS: Transform Data
+2026-03-18 02:40:03.210454 - 🎉 Pipeline finished successfully
+2026-03-18 02:45:00.555012 - 🚀 Pipeline started
+2026-03-18 02:45:00.555965 - START: Fetch Data
+2026-03-18 02:45:01.543391 - SUCCESS: Fetch Data
+2026-03-18 02:45:01.543991 - START: Load to DB
+2026-03-18 02:45:03.422889 - SUCCESS: Load to DB
+2026-03-18 02:45:03.423675 - START: Transform Data
+2026-03-18 02:45:03.512763 - SUCCESS: Transform Data
+2026-03-18 02:45:03.513531 - 🎉 Pipeline finished successfully
+2026-03-18 02:50:00.799397 - 🚀 Pipeline started
+2026-03-18 02:50:00.800077 - START: Fetch Data
+2026-03-18 02:50:01.719904 - SUCCESS: Fetch Data
+2026-03-18 02:50:01.720710 - START: Load to DB
+2026-03-18 02:50:03.603910 - SUCCESS: Load to DB
+2026-03-18 02:50:03.604502 - START: Transform Data
+2026-03-18 02:50:03.676245 - SUCCESS: Transform Data
+2026-03-18 02:50:03.676753 - 🎉 Pipeline finished successfully
+2026-03-18 07:55:48.365212 - 🚀 Pipeline started
+2026-03-18 07:55:48.366035 - START: Fetch Data
+2026-03-18 07:55:48.832596 - FAILED: Fetch Data
+2026-03-18 09:50:00.338891 - 🚀 Pipeline started
+2026-03-18 09:50:00.339410 - START: Fetch Data
+2026-03-18 09:50:01.188684 - SUCCESS: Fetch Data
+2026-03-18 09:50:01.189278 - START: Load to DB
+2026-03-18 09:50:03.073890 - SUCCESS: Load to DB
+2026-03-18 09:50:03.074394 - START: Transform Data
+2026-03-18 09:50:03.150472 - SUCCESS: Transform Data
+2026-03-18 09:50:03.150954 - 🎉 Pipeline finished successfully
+2026-03-18 09:52:09.217306 - 🚀 Pipeline started
+2026-03-18 09:52:09.217529 - START: Fetch Data (Attempt 1)
+2026-03-18 09:52:10.021243 - SUCCESS: Fetch Data
+2026-03-18 09:52:10.021699 - START: Load to DB (Attempt 1)
+2026-03-18 09:52:10.691953 - SUCCESS: Load to DB
+2026-03-18 09:52:10.692237 - START: Transform Data (Attempt 1)
+2026-03-18 09:52:10.727666 - SUCCESS: Transform Data
+2026-03-18 09:52:10.727857 - 🎉 Pipeline finished successfully
+2026-03-18 09:55:00.368287 - 🚀 Pipeline started
+2026-03-18 09:55:00.368941 - START: Fetch Data (Attempt 1)
+2026-03-18 09:55:01.263533 - SUCCESS: Fetch Data
+2026-03-18 09:55:01.264147 - START: Load to DB (Attempt 1)
+2026-03-18 09:55:03.035259 - SUCCESS: Load to DB
+2026-03-18 09:55:03.035730 - START: Transform Data (Attempt 1)
+2026-03-18 09:55:03.102881 - SUCCESS: Transform Data
+2026-03-18 09:55:03.103208 - 🎉 Pipeline finished successfully
+2026-03-18 10:00:00.581842 - 🚀 Pipeline started
+2026-03-18 10:00:00.582564 - START: Fetch Data (Attempt 1)
+2026-03-18 10:00:01.606538 - SUCCESS: Fetch Data
+2026-03-18 10:00:01.607105 - START: Load to DB (Attempt 1)
+2026-03-18 10:00:03.841211 - SUCCESS: Load to DB
+2026-03-18 10:00:03.841862 - START: Transform Data (Attempt 1)
+2026-03-18 10:00:03.928042 - SUCCESS: Transform Data
+2026-03-18 10:00:03.928621 - 🎉 Pipeline finished successfully
+2026-03-18 10:05:00.270400 - 🚀 Pipeline started
+2026-03-18 10:05:00.271101 - START: Fetch Data (Attempt 1)
+2026-03-18 10:05:01.119665 - SUCCESS: Fetch Data
+2026-03-18 10:05:01.120132 - START: Load to DB (Attempt 1)
+2026-03-18 10:05:02.807201 - SUCCESS: Load to DB
+2026-03-18 10:05:02.808189 - START: Transform Data (Attempt 1)
+2026-03-18 10:05:02.885648 - SUCCESS: Transform Data
+2026-03-18 10:05:02.886245 - 🎉 Pipeline finished successfully
+2026-03-18 10:10:00.118558 - 🚀 Pipeline started
+2026-03-18 10:10:00.119151 - START: Fetch Data (Attempt 1)
+2026-03-18 10:10:01.043405 - SUCCESS: Fetch Data
+2026-03-18 10:10:01.043817 - START: Load to DB (Attempt 1)
+2026-03-18 10:10:02.754609 - SUCCESS: Load to DB
+2026-03-18 10:10:02.755320 - START: Transform Data (Attempt 1)
+2026-03-18 10:10:02.886355 - SUCCESS: Transform Data
+2026-03-18 10:10:02.887363 - 🎉 Pipeline finished successfully
+2026-03-18 10:15:00.212721 - 🚀 Pipeline started
+2026-03-18 10:15:00.213093 - START: Fetch Data (Attempt 1)
+2026-03-18 10:15:01.188546 - SUCCESS: Fetch Data
+2026-03-18 10:15:01.189143 - START: Load to DB (Attempt 1)
+2026-03-18 10:15:03.057301 - SUCCESS: Load to DB
+2026-03-18 10:15:03.057857 - START: Transform Data (Attempt 1)
+2026-03-18 10:15:03.136935 - SUCCESS: Transform Data
+2026-03-18 10:15:03.137391 - 🎉 Pipeline finished successfully
+2026-03-18 10:20:00.508896 - 🚀 Pipeline started
+2026-03-18 10:20:00.509572 - START: Fetch Data (Attempt 1)
+2026-03-18 10:20:01.520064 - SUCCESS: Fetch Data
+2026-03-18 10:20:01.520647 - START: Load to DB (Attempt 1)
+2026-03-18 10:20:03.200770 - SUCCESS: Load to DB
+2026-03-18 10:20:03.201239 - START: Transform Data (Attempt 1)
+2026-03-18 10:20:03.270903 - SUCCESS: Transform Data
+2026-03-18 10:20:03.271308 - 🎉 Pipeline finished successfully
+2026-03-18 10:30:02.956104 - 🚀 Pipeline started
+2026-03-18 10:30:02.956934 - START: Fetch Data (Attempt 1)
+2026-03-18 10:30:03.930152 - SUCCESS: Fetch Data
+2026-03-18 10:30:03.930547 - START: Load to DB (Attempt 1)
+2026-03-18 10:30:06.020916 - SUCCESS: Load to DB
+2026-03-18 10:30:06.021626 - START: Transform Data (Attempt 1)
+2026-03-18 10:30:06.106006 - SUCCESS: Transform Data
+2026-03-18 10:30:06.106575 - 🎉 Pipeline finished successfully
+2026-03-18 10:35:00.585983 - 🚀 Pipeline started
+2026-03-18 10:35:00.586911 - START: Fetch Data (Attempt 1)
+2026-03-18 10:35:01.710178 - SUCCESS: Fetch Data
+2026-03-18 10:35:01.710967 - START: Load to DB (Attempt 1)
+2026-03-18 10:35:03.785537 - SUCCESS: Load to DB
+2026-03-18 10:35:03.786310 - START: Transform Data (Attempt 1)
+2026-03-18 10:35:03.870701 - SUCCESS: Transform Data
+2026-03-18 10:35:03.871230 - 🎉 Pipeline finished successfully
+2026-03-18 10:40:00.286681 - 🚀 Pipeline started
+2026-03-18 10:40:00.287438 - START: Fetch Data (Attempt 1)
+2026-03-18 10:40:01.656341 - SUCCESS: Fetch Data
+2026-03-18 10:40:01.657036 - START: Load to DB (Attempt 1)
+2026-03-18 10:40:03.651795 - SUCCESS: Load to DB
+2026-03-18 10:40:03.652440 - START: Transform Data (Attempt 1)
+2026-03-18 10:40:03.748529 - SUCCESS: Transform Data
+2026-03-18 10:40:03.749274 - 🎉 Pipeline finished successfully
+2026-03-18 10:45:00.225279 - 🚀 Pipeline started
+2026-03-18 10:45:00.225671 - START: Fetch Data (Attempt 1)
+2026-03-18 10:45:01.212711 - SUCCESS: Fetch Data
+2026-03-18 10:45:01.213176 - START: Load to DB (Attempt 1)
+2026-03-18 10:45:03.272456 - SUCCESS: Load to DB
+2026-03-18 10:45:03.272971 - START: Transform Data (Attempt 1)
+2026-03-18 10:45:03.343395 - SUCCESS: Transform Data
+2026-03-18 10:45:03.343790 - 🎉 Pipeline finished successfully
+2026-03-18 10:50:00.841291 - 🚀 Pipeline started
+2026-03-18 10:50:00.842166 - START: Fetch Data (Attempt 1)
+2026-03-18 10:50:02.055150 - SUCCESS: Fetch Data
+2026-03-18 10:50:02.055794 - START: Load to DB (Attempt 1)
+2026-03-18 10:50:04.190187 - SUCCESS: Load to DB
+2026-03-18 10:50:04.190898 - START: Transform Data (Attempt 1)
+2026-03-18 10:50:04.278014 - SUCCESS: Transform Data
+2026-03-18 10:50:04.278518 - 🎉 Pipeline finished successfully
+2026-03-18 10:55:00.758931 - 🚀 Pipeline started
+2026-03-18 10:55:00.759453 - START: Fetch Data (Attempt 1)
+2026-03-18 10:55:01.775629 - SUCCESS: Fetch Data
+2026-03-18 10:55:01.776346 - START: Load to DB (Attempt 1)
+2026-03-18 10:55:03.948223 - SUCCESS: Load to DB
+2026-03-18 10:55:03.948750 - START: Transform Data (Attempt 1)
+2026-03-18 10:55:04.041493 - SUCCESS: Transform Data
+2026-03-18 10:55:04.042009 - 🎉 Pipeline finished successfully
+2026-03-18 11:00:00.652990 - 🚀 Pipeline started
+2026-03-18 11:00:00.653650 - START: Fetch Data (Attempt 1)
+2026-03-18 11:00:01.603198 - SUCCESS: Fetch Data
+2026-03-18 11:00:01.603609 - START: Load to DB (Attempt 1)
+2026-03-18 11:00:03.271763 - SUCCESS: Load to DB
+2026-03-18 11:00:03.272272 - START: Transform Data (Attempt 1)
+2026-03-18 11:00:03.342361 - SUCCESS: Transform Data
+2026-03-18 11:00:03.342810 - 🎉 Pipeline finished successfully
+2026-03-18 11:05:00.887538 - 🚀 Pipeline started
+2026-03-18 11:05:00.891482 - START: Fetch Data (Attempt 1)
+2026-03-18 11:05:02.861405 - SUCCESS: Fetch Data
+2026-03-18 11:05:02.862082 - START: Load to DB (Attempt 1)
+2026-03-18 11:05:04.985018 - SUCCESS: Load to DB
+2026-03-18 11:05:04.985769 - START: Transform Data (Attempt 1)
+2026-03-18 11:05:05.073067 - SUCCESS: Transform Data
+2026-03-18 11:05:05.073722 - 🎉 Pipeline finished successfully
+2026-03-18 11:10:00.432536 - 🚀 Pipeline started
+2026-03-18 11:10:00.433212 - START: Fetch Data (Attempt 1)
+2026-03-18 11:10:01.684657 - SUCCESS: Fetch Data
+2026-03-18 11:10:01.685278 - START: Load to DB (Attempt 1)
+2026-03-18 11:10:04.452835 - SUCCESS: Load to DB
+2026-03-18 11:10:04.453456 - START: Transform Data (Attempt 1)
+2026-03-18 11:10:04.542571 - SUCCESS: Transform Data
+2026-03-18 11:10:04.542925 - 🎉 Pipeline finished successfully
+2026-03-18 11:15:01.231471 - 🚀 Pipeline started
+2026-03-18 11:15:01.241436 - START: Fetch Data (Attempt 1)
+2026-03-18 11:15:02.225441 - SUCCESS: Fetch Data
+2026-03-18 11:15:02.226098 - START: Load to DB (Attempt 1)
+2026-03-18 11:15:05.265558 - SUCCESS: Load to DB
+2026-03-18 11:15:05.266403 - START: Transform Data (Attempt 1)
+2026-03-18 11:15:05.440309 - SUCCESS: Transform Data
+2026-03-18 11:15:05.440840 - 🎉 Pipeline finished successfully
+2026-03-18 11:20:00.972419 - 🚀 Pipeline started
+2026-03-18 11:20:00.973204 - START: Fetch Data (Attempt 1)
+2026-03-18 11:20:02.309143 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 11:20:02.309603 - START: Fetch Data (Attempt 2)
+2026-03-18 11:20:02.785173 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 11:20:02.785714 - START: Fetch Data (Attempt 3)
+2026-03-18 11:20:03.217941 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 11:20:03.218444 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 11:25:00.671110 - 🚀 Pipeline started
+2026-03-18 11:25:00.671830 - START: Fetch Data (Attempt 1)
+2026-03-18 11:25:01.584085 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 11:25:01.584642 - START: Fetch Data (Attempt 2)
+2026-03-18 11:25:02.059492 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 11:25:02.060071 - START: Fetch Data (Attempt 3)
+2026-03-18 11:25:02.478017 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 11:25:02.478778 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 11:30:01.123134 - 🚀 Pipeline started
+2026-03-18 11:30:01.123788 - START: Fetch Data (Attempt 1)
+2026-03-18 11:30:02.075863 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 11:30:02.076400 - START: Fetch Data (Attempt 2)
+2026-03-18 11:30:03.316069 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 11:30:03.327791 - START: Fetch Data (Attempt 3)
+2026-03-18 11:30:04.026830 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 11:30:04.027538 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 11:35:00.403369 - 🚀 Pipeline started
+2026-03-18 11:35:00.404072 - START: Fetch Data (Attempt 1)
+2026-03-18 11:35:01.448985 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 11:35:01.449568 - START: Fetch Data (Attempt 2)
+2026-03-18 11:35:01.970605 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 11:35:01.971210 - START: Fetch Data (Attempt 3)
+2026-03-18 11:35:02.434345 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 11:35:02.434882 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 11:40:00.902384 - 🚀 Pipeline started
+2026-03-18 11:40:00.903126 - START: Fetch Data (Attempt 1)
+2026-03-18 11:40:01.874081 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 11:40:01.874650 - START: Fetch Data (Attempt 2)
+2026-03-18 11:40:02.279838 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 11:40:02.280263 - START: Fetch Data (Attempt 3)
+2026-03-18 11:40:02.769725 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 11:40:02.770347 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 11:45:01.292577 - 🚀 Pipeline started
+2026-03-18 11:45:01.293152 - START: Fetch Data (Attempt 1)
+2026-03-18 11:45:02.322119 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 11:45:02.322771 - START: Fetch Data (Attempt 2)
+2026-03-18 11:45:02.761777 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 11:45:02.762205 - START: Fetch Data (Attempt 3)
+2026-03-18 11:45:03.203829 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 11:45:03.204245 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 11:50:00.652296 - 🚀 Pipeline started
+2026-03-18 11:50:00.653055 - START: Fetch Data (Attempt 1)
+2026-03-18 11:50:01.644046 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 11:50:01.645766 - START: Fetch Data (Attempt 2)
+2026-03-18 11:50:02.070961 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 11:50:02.071453 - START: Fetch Data (Attempt 3)
+2026-03-18 11:50:02.534612 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 11:50:02.535132 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 11:55:01.016677 - 🚀 Pipeline started
+2026-03-18 11:55:01.017204 - START: Fetch Data (Attempt 1)
+2026-03-18 11:55:02.019665 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 11:55:02.020240 - START: Fetch Data (Attempt 2)
+2026-03-18 11:55:02.495204 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 11:55:02.495663 - START: Fetch Data (Attempt 3)
+2026-03-18 11:55:02.916436 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 11:55:02.917067 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 12:00:00.397584 - 🚀 Pipeline started
+2026-03-18 12:00:00.398156 - START: Fetch Data (Attempt 1)
+2026-03-18 12:00:01.347578 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 12:00:01.348098 - START: Fetch Data (Attempt 2)
+2026-03-18 12:00:01.776743 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 12:00:01.777111 - START: Fetch Data (Attempt 3)
+2026-03-18 12:00:02.232246 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 12:00:02.232664 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 12:05:00.684510 - 🚀 Pipeline started
+2026-03-18 12:05:00.685372 - START: Fetch Data (Attempt 1)
+2026-03-18 12:05:01.784815 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 12:05:01.785372 - START: Fetch Data (Attempt 2)
+2026-03-18 12:05:02.360786 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 12:05:02.361155 - START: Fetch Data (Attempt 3)
+2026-03-18 12:05:02.897017 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 12:05:02.897446 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 12:10:00.319004 - 🚀 Pipeline started
+2026-03-18 12:10:00.319383 - START: Fetch Data (Attempt 1)
+2026-03-18 12:10:00.927644 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 12:10:00.928430 - START: Fetch Data (Attempt 2)
+2026-03-18 12:10:01.505591 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 12:10:01.506029 - START: Fetch Data (Attempt 3)
+2026-03-18 12:10:02.006302 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 12:10:02.006672 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 12:22:12.447146 - 🚀 Pipeline started
+2026-03-18 12:22:12.447841 - START: Fetch Data (Attempt 1)
+2026-03-18 12:22:13.326498 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 12:22:13.326834 - START: Fetch Data (Attempt 2)
+2026-03-18 12:22:13.766307 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 12:22:13.766863 - START: Fetch Data (Attempt 3)
+2026-03-18 12:22:14.227969 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 12:22:14.228402 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 12:45:34.504969 - 🚀 Pipeline started
+2026-03-18 12:45:34.505387 - START: Fetch Data (Attempt 1)
+2026-03-18 12:45:35.130081 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 12:45:35.130493 - START: Fetch Data (Attempt 2)
+2026-03-18 12:45:35.467730 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 12:45:35.468324 - START: Fetch Data (Attempt 3)
+2026-03-18 12:45:35.849606 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 12:45:35.850100 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 12:50:00.328719 - 🚀 Pipeline started
+2026-03-18 12:50:00.329387 - START: Fetch Data (Attempt 1)
+2026-03-18 12:50:01.523505 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 12:50:01.523971 - START: Fetch Data (Attempt 2)
+2026-03-18 12:50:02.417966 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 12:50:02.419016 - START: Fetch Data (Attempt 3)
+2026-03-18 12:50:03.465421 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 12:50:03.466089 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 12:55:00.937376 - 🚀 Pipeline started
+2026-03-18 12:55:00.937778 - START: Fetch Data (Attempt 1)
+2026-03-18 12:55:02.911222 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 12:55:02.912014 - START: Fetch Data (Attempt 2)
+2026-03-18 12:55:03.690675 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 12:55:03.691086 - START: Fetch Data (Attempt 3)
+2026-03-18 12:55:04.412107 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 12:55:04.412662 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 13:00:01.062910 - 🚀 Pipeline started
+2026-03-18 13:00:01.063342 - START: Fetch Data (Attempt 1)
+2026-03-18 13:00:02.633607 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 13:00:02.634232 - START: Fetch Data (Attempt 2)
+2026-03-18 13:00:03.225934 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 13:00:03.226351 - START: Fetch Data (Attempt 3)
+2026-03-18 13:00:03.761247 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 13:00:03.761756 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 13:05:01.155338 - 🚀 Pipeline started
+2026-03-18 13:05:01.155768 - START: Fetch Data (Attempt 1)
+2026-03-18 13:05:03.464488 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 13:05:03.465089 - START: Fetch Data (Attempt 2)
+2026-03-18 13:05:04.136284 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 13:05:04.136781 - START: Fetch Data (Attempt 3)
+2026-03-18 13:05:04.874433 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 13:05:04.875045 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 13:10:00.286849 - 🚀 Pipeline started
+2026-03-18 13:10:00.287122 - START: Fetch Data (Attempt 1)
+2026-03-18 13:10:02.041537 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 13:10:02.042369 - START: Fetch Data (Attempt 2)
+2026-03-18 13:10:03.365666 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 13:10:03.366381 - START: Fetch Data (Attempt 3)
+2026-03-18 13:10:04.416007 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 13:10:04.416654 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 13:15:00.834364 - 🚀 Pipeline started
+2026-03-18 13:15:00.835658 - START: Fetch Data (Attempt 1)
+2026-03-18 13:15:02.931179 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 13:15:02.931679 - START: Fetch Data (Attempt 2)
+2026-03-18 13:15:05.523900 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 13:15:05.524390 - START: Fetch Data (Attempt 3)
+2026-03-18 13:15:06.488683 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 13:15:06.489193 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 13:20:00.853487 - 🚀 Pipeline started
+2026-03-18 13:20:00.854223 - START: Fetch Data (Attempt 1)
+2026-03-18 13:20:02.281082 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 13:20:02.281626 - START: Fetch Data (Attempt 2)
+2026-03-18 13:20:03.238441 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 13:20:03.238859 - START: Fetch Data (Attempt 3)
+2026-03-18 13:20:04.274770 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 13:20:04.275191 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 13:25:00.623799 - 🚀 Pipeline started
+2026-03-18 13:25:00.624434 - START: Fetch Data (Attempt 1)
+2026-03-18 13:25:02.170476 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 13:25:02.171129 - START: Fetch Data (Attempt 2)
+2026-03-18 13:25:02.687603 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 13:25:02.687956 - START: Fetch Data (Attempt 3)
+2026-03-18 13:25:05.807369 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 13:25:05.808204 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 13:30:01.115917 - 🚀 Pipeline started
+2026-03-18 13:30:01.116649 - START: Fetch Data (Attempt 1)
+2026-03-18 13:30:02.809482 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 13:30:02.810135 - START: Fetch Data (Attempt 2)
+2026-03-18 13:30:03.506955 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 13:30:03.507514 - START: Fetch Data (Attempt 3)
+2026-03-18 13:30:04.056754 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 13:30:04.057194 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 13:35:00.389535 - 🚀 Pipeline started
+2026-03-18 13:35:00.390318 - START: Fetch Data (Attempt 1)
+2026-03-18 13:35:01.690287 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 13:35:01.690817 - START: Fetch Data (Attempt 2)
+2026-03-18 13:35:02.634721 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 13:35:02.635135 - START: Fetch Data (Attempt 3)
+2026-03-18 13:35:03.208485 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 13:35:03.208879 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 13:40:00.633413 - 🚀 Pipeline started
+2026-03-18 13:40:00.634235 - START: Fetch Data (Attempt 1)
+2026-03-18 13:40:02.305720 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 13:40:02.306200 - START: Fetch Data (Attempt 2)
+2026-03-18 13:40:03.574034 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 13:40:03.574545 - START: Fetch Data (Attempt 3)
+2026-03-18 13:40:04.097062 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 13:40:04.097665 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 13:45:00.392967 - 🚀 Pipeline started
+2026-03-18 13:45:00.393577 - START: Fetch Data (Attempt 1)
+2026-03-18 13:45:01.480035 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 13:45:01.480546 - START: Fetch Data (Attempt 2)
+2026-03-18 13:45:02.183553 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 13:45:02.184153 - START: Fetch Data (Attempt 3)
+2026-03-18 13:45:03.225628 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 13:45:03.226147 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 13:50:00.697769 - 🚀 Pipeline started
+2026-03-18 13:50:00.698389 - START: Fetch Data (Attempt 1)
+2026-03-18 13:50:04.409824 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 13:50:04.410507 - START: Fetch Data (Attempt 2)
+2026-03-18 13:50:05.051067 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 13:50:05.051481 - START: Fetch Data (Attempt 3)
+2026-03-18 13:50:05.694409 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 13:50:05.694781 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 13:55:01.270105 - 🚀 Pipeline started
+2026-03-18 13:55:01.270790 - START: Fetch Data (Attempt 1)
+2026-03-18 13:55:04.601661 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 13:55:04.602330 - START: Fetch Data (Attempt 2)
+2026-03-18 13:55:05.272012 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 13:55:05.272553 - START: Fetch Data (Attempt 3)
+2026-03-18 13:55:05.971304 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 13:55:05.971750 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 14:03:53.234526 - 🚀 Pipeline started
+2026-03-18 14:03:53.235328 - START: Fetch Data (Attempt 1)
+2026-03-18 14:03:54.600904 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 14:03:54.601426 - START: Fetch Data (Attempt 2)
+2026-03-18 14:03:55.540337 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 14:03:55.540761 - START: Fetch Data (Attempt 3)
+2026-03-18 14:03:56.098793 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 14:03:56.099409 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 14:20:45.131148 - 🚀 Pipeline started
+2026-03-18 14:20:45.132075 - START: Fetch Data (Attempt 1)
+2026-03-18 14:20:45.773298 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 14:20:45.773857 - START: Fetch Data (Attempt 2)
+2026-03-18 14:20:46.263380 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 14:20:46.263794 - START: Fetch Data (Attempt 3)
+2026-03-18 14:20:46.749863 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 14:20:46.750346 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 14:40:00.569179 - 🚀 Pipeline started
+2026-03-18 14:40:00.569782 - START: Fetch Data (Attempt 1)
+2026-03-18 14:40:01.852875 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 14:40:01.853393 - START: Fetch Data (Attempt 2)
+2026-03-18 14:40:03.083658 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 14:40:03.084134 - START: Fetch Data (Attempt 3)
+2026-03-18 14:40:03.633246 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 14:40:03.633616 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 15:45:01.262264 - 🚀 Pipeline started
+2026-03-18 15:45:01.262833 - START: Fetch Data (Attempt 1)
+2026-03-18 15:45:02.473534 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 15:45:02.484189 - START: Fetch Data (Attempt 2)
+2026-03-18 15:45:03.042168 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 15:45:03.042577 - START: Fetch Data (Attempt 3)
+2026-03-18 15:45:03.504728 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 15:45:03.505269 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 16:05:01.150691 - 🚀 Pipeline started
+2026-03-18 16:05:01.151312 - START: Fetch Data (Attempt 1)
+2026-03-18 16:05:02.887671 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 16:05:02.888515 - START: Fetch Data (Attempt 2)
+2026-03-18 16:05:03.587557 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 16:05:03.588042 - START: Fetch Data (Attempt 3)
+2026-03-18 16:05:04.056695 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 16:05:04.057154 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 16:10:00.473846 - 🚀 Pipeline started
+2026-03-18 16:10:00.474289 - START: Fetch Data (Attempt 1)
+2026-03-18 16:10:01.637016 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 16:10:01.637522 - START: Fetch Data (Attempt 2)
+2026-03-18 16:10:02.069445 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 16:10:02.069851 - START: Fetch Data (Attempt 3)
+2026-03-18 16:10:02.497983 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 16:10:02.498504 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 16:15:01.012575 - 🚀 Pipeline started
+2026-03-18 16:15:01.013292 - START: Fetch Data (Attempt 1)
+2026-03-18 16:15:02.724950 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 16:15:02.725456 - START: Fetch Data (Attempt 2)
+2026-03-18 16:15:03.240114 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 16:15:03.240661 - START: Fetch Data (Attempt 3)
+2026-03-18 16:15:03.690722 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 16:15:03.691248 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 16:20:01.277659 - 🚀 Pipeline started
+2026-03-18 16:20:01.279808 - START: Fetch Data (Attempt 1)
+2026-03-18 16:20:03.293675 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 16:20:03.294252 - START: Fetch Data (Attempt 2)
+2026-03-18 16:20:03.760079 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 16:20:03.760486 - START: Fetch Data (Attempt 3)
+2026-03-18 16:20:04.267229 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 16:20:04.267784 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 16:25:00.639960 - 🚀 Pipeline started
+2026-03-18 16:25:00.640542 - START: Fetch Data (Attempt 1)
+2026-03-18 16:25:01.554948 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 16:25:01.555478 - START: Fetch Data (Attempt 2)
+2026-03-18 16:25:02.024206 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 16:25:02.024627 - START: Fetch Data (Attempt 3)
+2026-03-18 16:25:02.543938 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 16:25:02.544339 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 16:30:01.142040 - 🚀 Pipeline started
+2026-03-18 16:30:01.142794 - START: Fetch Data (Attempt 1)
+2026-03-18 16:30:02.697306 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 16:30:02.697897 - START: Fetch Data (Attempt 2)
+2026-03-18 16:30:03.172115 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 16:30:03.172705 - START: Fetch Data (Attempt 3)
+2026-03-18 16:30:03.725515 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 16:30:03.725998 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 16:35:01.131348 - 🚀 Pipeline started
+2026-03-18 16:35:01.134031 - START: Fetch Data (Attempt 1)
+2026-03-18 16:35:02.432658 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 16:35:02.433273 - START: Fetch Data (Attempt 2)
+2026-03-18 16:35:02.884828 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 16:35:02.885267 - START: Fetch Data (Attempt 3)
+2026-03-18 16:35:03.339420 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 16:35:03.339824 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 16:40:00.839169 - 🚀 Pipeline started
+2026-03-18 16:40:00.845186 - START: Fetch Data (Attempt 1)
+2026-03-18 16:40:02.412918 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 16:40:02.413630 - START: Fetch Data (Attempt 2)
+2026-03-18 16:40:02.939389 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 16:40:02.939851 - START: Fetch Data (Attempt 3)
+2026-03-18 16:40:03.691592 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 16:40:03.692192 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 16:45:01.890965 - 🚀 Pipeline started
+2026-03-18 16:45:01.891566 - START: Fetch Data (Attempt 1)
+2026-03-18 16:45:03.093813 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 16:45:03.094472 - START: Fetch Data (Attempt 2)
+2026-03-18 16:45:03.588885 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 16:45:03.589315 - START: Fetch Data (Attempt 3)
+2026-03-18 16:45:04.066014 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 16:45:04.066606 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 16:50:00.453082 - 🚀 Pipeline started
+2026-03-18 16:50:00.453694 - START: Fetch Data (Attempt 1)
+2026-03-18 16:50:01.446135 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 16:50:01.446690 - START: Fetch Data (Attempt 2)
+2026-03-18 16:50:02.001986 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 16:50:02.002480 - START: Fetch Data (Attempt 3)
+2026-03-18 16:50:02.496567 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 16:50:02.497019 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 16:55:00.935012 - 🚀 Pipeline started
+2026-03-18 16:55:00.935682 - START: Fetch Data (Attempt 1)
+2026-03-18 16:55:02.662874 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 16:55:02.663862 - START: Fetch Data (Attempt 2)
+2026-03-18 16:55:03.458026 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 16:55:03.458664 - START: Fetch Data (Attempt 3)
+2026-03-18 16:55:04.000573 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 16:55:04.001077 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 17:00:00.452069 - 🚀 Pipeline started
+2026-03-18 17:00:00.452665 - START: Fetch Data (Attempt 1)
+2026-03-18 17:00:01.674763 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 17:00:01.675251 - START: Fetch Data (Attempt 2)
+2026-03-18 17:00:02.245433 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 17:00:02.245852 - START: Fetch Data (Attempt 3)
+2026-03-18 17:00:02.690385 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 17:00:02.690801 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 17:05:01.030981 - 🚀 Pipeline started
+2026-03-18 17:05:01.031433 - START: Fetch Data (Attempt 1)
+2026-03-18 17:05:01.709628 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 17:05:01.710093 - START: Fetch Data (Attempt 2)
+2026-03-18 17:05:02.212716 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 17:05:02.213202 - START: Fetch Data (Attempt 3)
+2026-03-18 17:05:02.705560 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 17:05:02.706056 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 17:10:01.092673 - 🚀 Pipeline started
+2026-03-18 17:10:01.093158 - START: Fetch Data (Attempt 1)
+2026-03-18 17:10:02.257010 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 17:10:02.257563 - START: Fetch Data (Attempt 2)
+2026-03-18 17:10:02.787233 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 17:10:02.787974 - START: Fetch Data (Attempt 3)
+2026-03-18 17:10:03.330847 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 17:10:03.331395 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 17:15:00.745436 - 🚀 Pipeline started
+2026-03-18 17:15:00.745912 - START: Fetch Data (Attempt 1)
+2026-03-18 17:15:01.373514 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 17:15:01.373987 - START: Fetch Data (Attempt 2)
+2026-03-18 17:15:01.986903 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 17:15:01.987331 - START: Fetch Data (Attempt 3)
+2026-03-18 17:15:02.497676 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 17:15:02.498106 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 17:20:00.894533 - 🚀 Pipeline started
+2026-03-18 17:20:00.895239 - START: Fetch Data (Attempt 1)
+2026-03-18 17:21:21.716885 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 17:21:21.718139 - START: Fetch Data (Attempt 2)
+2026-03-18 17:21:22.536747 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 17:21:22.537274 - START: Fetch Data (Attempt 3)
+2026-03-18 17:21:23.161930 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 17:21:23.162532 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 17:25:00.530967 - 🚀 Pipeline started
+2026-03-18 17:25:00.531532 - START: Fetch Data (Attempt 1)
+2026-03-18 17:25:01.417483 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 17:25:01.418008 - START: Fetch Data (Attempt 2)
+2026-03-18 17:25:02.022550 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 17:25:02.022989 - START: Fetch Data (Attempt 3)
+2026-03-18 17:25:02.571927 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 17:25:02.572450 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 17:30:00.930185 - 🚀 Pipeline started
+2026-03-18 17:30:00.930841 - START: Fetch Data (Attempt 1)
+2026-03-18 17:30:01.554324 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 17:30:01.554869 - START: Fetch Data (Attempt 2)
+2026-03-18 17:30:02.024813 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 17:30:02.025254 - START: Fetch Data (Attempt 3)
+2026-03-18 17:30:02.487739 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 17:30:02.488380 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 17:35:00.898394 - 🚀 Pipeline started
+2026-03-18 17:35:00.898956 - START: Fetch Data (Attempt 1)
+2026-03-18 17:35:01.697153 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 17:35:01.697697 - START: Fetch Data (Attempt 2)
+2026-03-18 17:35:02.166649 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 17:35:02.167087 - START: Fetch Data (Attempt 3)
+2026-03-18 17:35:02.627622 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 17:35:02.628231 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 17:40:01.079267 - 🚀 Pipeline started
+2026-03-18 17:40:01.079846 - START: Fetch Data (Attempt 1)
+2026-03-18 17:40:02.132645 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 17:40:02.133251 - START: Fetch Data (Attempt 2)
+2026-03-18 17:40:02.562911 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 17:40:02.563477 - START: Fetch Data (Attempt 3)
+2026-03-18 17:40:03.023596 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 17:40:03.024147 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 17:45:00.424754 - 🚀 Pipeline started
+2026-03-18 17:45:00.425370 - START: Fetch Data (Attempt 1)
+2026-03-18 17:45:01.450374 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 17:45:01.450946 - START: Fetch Data (Attempt 2)
+2026-03-18 17:45:02.240869 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 17:45:02.241413 - START: Fetch Data (Attempt 3)
+2026-03-18 17:45:02.793003 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 17:45:02.793621 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 17:50:01.157467 - 🚀 Pipeline started
+2026-03-18 17:50:01.158499 - START: Fetch Data (Attempt 1)
+2026-03-18 17:50:02.103533 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 17:50:02.104056 - START: Fetch Data (Attempt 2)
+2026-03-18 17:50:02.539958 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 17:50:02.540407 - START: Fetch Data (Attempt 3)
+2026-03-18 17:50:02.960495 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 17:50:02.960919 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 17:55:00.352299 - 🚀 Pipeline started
+2026-03-18 17:55:00.353093 - START: Fetch Data (Attempt 1)
+2026-03-18 17:55:01.499391 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 17:55:01.499973 - START: Fetch Data (Attempt 2)
+2026-03-18 17:55:01.997387 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 17:55:01.997795 - START: Fetch Data (Attempt 3)
+2026-03-18 17:55:02.439512 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 17:55:02.439916 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 18:00:00.861444 - 🚀 Pipeline started
+2026-03-18 18:00:00.861972 - START: Fetch Data (Attempt 1)
+2026-03-18 18:00:01.486178 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 18:00:01.488479 - START: Fetch Data (Attempt 2)
+2026-03-18 18:00:01.956087 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 18:00:01.956553 - START: Fetch Data (Attempt 3)
+2026-03-18 18:00:02.419961 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 18:00:02.420995 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 18:05:00.941174 - 🚀 Pipeline started
+2026-03-18 18:05:00.941809 - START: Fetch Data (Attempt 1)
+2026-03-18 18:05:02.019120 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 18:05:02.019646 - START: Fetch Data (Attempt 2)
+2026-03-18 18:05:02.481710 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 18:05:02.482224 - START: Fetch Data (Attempt 3)
+2026-03-18 18:05:03.069779 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 18:05:03.070377 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 18:10:00.463406 - 🚀 Pipeline started
+2026-03-18 18:10:00.463991 - START: Fetch Data (Attempt 1)
+2026-03-18 18:10:01.516711 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 18:10:01.517211 - START: Fetch Data (Attempt 2)
+2026-03-18 18:10:01.995416 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 18:10:01.995919 - START: Fetch Data (Attempt 3)
+2026-03-18 18:10:02.492840 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 18:10:02.493294 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 18:15:00.868123 - 🚀 Pipeline started
+2026-03-18 18:15:00.868652 - START: Fetch Data (Attempt 1)
+2026-03-18 18:15:01.996375 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 18:15:01.997113 - START: Fetch Data (Attempt 2)
+2026-03-18 18:15:02.563220 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 18:15:02.563659 - START: Fetch Data (Attempt 3)
+2026-03-18 18:15:03.094691 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 18:15:03.095168 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 18:20:00.622556 - 🚀 Pipeline started
+2026-03-18 18:20:00.623171 - START: Fetch Data (Attempt 1)
+2026-03-18 18:20:01.621352 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 18:20:01.621906 - START: Fetch Data (Attempt 2)
+2026-03-18 18:20:02.068880 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 18:20:02.069435 - START: Fetch Data (Attempt 3)
+2026-03-18 18:20:02.581617 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 18:20:02.582189 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 18:25:01.055966 - 🚀 Pipeline started
+2026-03-18 18:25:01.056616 - START: Fetch Data (Attempt 1)
+2026-03-18 18:25:02.164041 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 18:25:02.164729 - START: Fetch Data (Attempt 2)
+2026-03-18 18:25:02.617331 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 18:25:02.617783 - START: Fetch Data (Attempt 3)
+2026-03-18 18:25:03.165603 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 18:25:03.166130 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 18:30:00.688874 - 🚀 Pipeline started
+2026-03-18 18:30:00.689589 - START: Fetch Data (Attempt 1)
+2026-03-18 18:30:01.496426 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 18:30:01.496926 - START: Fetch Data (Attempt 2)
+2026-03-18 18:30:01.936254 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 18:30:01.936771 - START: Fetch Data (Attempt 3)
+2026-03-18 18:30:02.484170 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 18:30:02.484569 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 18:35:00.835984 - 🚀 Pipeline started
+2026-03-18 18:35:00.836580 - START: Fetch Data (Attempt 1)
+2026-03-18 18:35:01.613384 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 18:35:01.613938 - START: Fetch Data (Attempt 2)
+2026-03-18 18:35:02.159035 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 18:35:02.160003 - START: Fetch Data (Attempt 3)
+2026-03-18 18:35:02.662389 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 18:35:02.662913 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 18:40:01.036764 - 🚀 Pipeline started
+2026-03-18 18:40:01.037422 - START: Fetch Data (Attempt 1)
+2026-03-18 18:40:01.737091 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 18:40:01.737559 - START: Fetch Data (Attempt 2)
+2026-03-18 18:40:02.209055 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 18:40:02.209435 - START: Fetch Data (Attempt 3)
+2026-03-18 18:40:02.730265 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 18:40:02.730688 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 18:45:01.163657 - 🚀 Pipeline started
+2026-03-18 18:45:01.164353 - START: Fetch Data (Attempt 1)
+2026-03-18 18:45:02.210852 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 18:45:02.211659 - START: Fetch Data (Attempt 2)
+2026-03-18 18:45:02.737588 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 18:45:02.738180 - START: Fetch Data (Attempt 3)
+2026-03-18 18:45:03.368882 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 18:45:03.369328 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 18:50:00.705537 - 🚀 Pipeline started
+2026-03-18 18:50:00.706057 - START: Fetch Data (Attempt 1)
+2026-03-18 18:50:01.726136 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 18:50:01.726679 - START: Fetch Data (Attempt 2)
+2026-03-18 18:50:02.185423 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 18:50:02.185914 - START: Fetch Data (Attempt 3)
+2026-03-18 18:50:02.594501 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 18:50:02.594895 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 18:55:00.928311 - 🚀 Pipeline started
+2026-03-18 18:55:00.928983 - START: Fetch Data (Attempt 1)
+2026-03-18 18:55:01.817897 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 18:55:01.818332 - START: Fetch Data (Attempt 2)
+2026-03-18 18:55:02.471324 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 18:55:02.471927 - START: Fetch Data (Attempt 3)
+2026-03-18 18:55:02.998968 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 18:55:02.999552 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 19:00:00.504192 - 🚀 Pipeline started
+2026-03-18 19:00:00.504854 - START: Fetch Data (Attempt 1)
+2026-03-18 19:00:01.585308 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 19:00:01.585803 - START: Fetch Data (Attempt 2)
+2026-03-18 19:00:02.088353 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 19:00:02.089238 - START: Fetch Data (Attempt 3)
+2026-03-18 19:00:02.814273 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 19:00:02.814809 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 19:05:00.588615 - 🚀 Pipeline started
+2026-03-18 19:05:00.589430 - START: Fetch Data (Attempt 1)
+2026-03-18 19:05:02.008596 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 19:05:02.009416 - START: Fetch Data (Attempt 2)
+2026-03-18 19:05:02.566494 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 19:05:02.567073 - START: Fetch Data (Attempt 3)
+2026-03-18 19:05:03.230480 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 19:05:03.231062 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 19:10:00.642055 - 🚀 Pipeline started
+2026-03-18 19:10:00.642898 - START: Fetch Data (Attempt 1)
+2026-03-18 19:10:01.603025 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 19:10:01.603759 - START: Fetch Data (Attempt 2)
+2026-03-18 19:10:02.229585 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 19:10:02.230281 - START: Fetch Data (Attempt 3)
+2026-03-18 19:10:02.728735 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 19:10:02.729180 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 19:15:01.097661 - 🚀 Pipeline started
+2026-03-18 19:15:01.098332 - START: Fetch Data (Attempt 1)
+2026-03-18 19:15:02.102013 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 19:15:02.102653 - START: Fetch Data (Attempt 2)
+2026-03-18 19:15:02.581832 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 19:15:02.582331 - START: Fetch Data (Attempt 3)
+2026-03-18 19:15:03.057805 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 19:15:03.058280 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 19:20:00.475687 - 🚀 Pipeline started
+2026-03-18 19:20:00.476529 - START: Fetch Data (Attempt 1)
+2026-03-18 19:20:01.466016 - FAILED: Fetch Data (Attempt 1)
+2026-03-18 19:20:01.467081 - START: Fetch Data (Attempt 2)
+2026-03-18 19:20:01.969209 - FAILED: Fetch Data (Attempt 2)
+2026-03-18 19:20:01.969813 - START: Fetch Data (Attempt 3)
+2026-03-18 19:20:02.453891 - FAILED: Fetch Data (Attempt 3)
+2026-03-18 19:20:02.454327 - ❌ FINAL FAILURE: Fetch Data
+2026-03-18 19:25:00.999726 - 🚀 Pipeline started
+2026-03-18 19:25:01.000548 - START: Fetch Data (Attempt 1)
+2026-03-18 19:25:02.098596 - SUCCESS: Fetch Data
+2026-03-18 19:25:02.100128 - START: Load to DB (Attempt 1)
+2026-03-18 19:25:02.508499 - FAILED: Load to DB (Attempt 1)
+2026-03-18 19:25:02.508991 - START: Load to DB (Attempt 2)
+2026-03-18 19:25:02.647873 - FAILED: Load to DB (Attempt 2)
+2026-03-18 19:25:02.648372 - START: Load to DB (Attempt 3)
+2026-03-18 19:25:02.783329 - FAILED: Load to DB (Attempt 3)
+2026-03-18 19:25:02.784299 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 19:30:01.128645 - 🚀 Pipeline started
+2026-03-18 19:30:01.129377 - START: Fetch Data (Attempt 1)
+2026-03-18 19:30:02.130579 - SUCCESS: Fetch Data
+2026-03-18 19:30:02.131221 - START: Load to DB (Attempt 1)
+2026-03-18 19:30:02.277090 - FAILED: Load to DB (Attempt 1)
+2026-03-18 19:30:02.277815 - START: Load to DB (Attempt 2)
+2026-03-18 19:30:02.404897 - FAILED: Load to DB (Attempt 2)
+2026-03-18 19:30:02.405418 - START: Load to DB (Attempt 3)
+2026-03-18 19:30:02.535332 - FAILED: Load to DB (Attempt 3)
+2026-03-18 19:30:02.535730 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 19:35:00.989177 - 🚀 Pipeline started
+2026-03-18 19:35:00.989771 - START: Fetch Data (Attempt 1)
+2026-03-18 19:35:01.930471 - SUCCESS: Fetch Data
+2026-03-18 19:35:01.930975 - START: Load to DB (Attempt 1)
+2026-03-18 19:35:02.069734 - FAILED: Load to DB (Attempt 1)
+2026-03-18 19:35:02.070190 - START: Load to DB (Attempt 2)
+2026-03-18 19:35:02.229814 - FAILED: Load to DB (Attempt 2)
+2026-03-18 19:35:02.230200 - START: Load to DB (Attempt 3)
+2026-03-18 19:35:02.336998 - FAILED: Load to DB (Attempt 3)
+2026-03-18 19:35:02.337407 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 19:40:00.778664 - 🚀 Pipeline started
+2026-03-18 19:40:00.779771 - START: Fetch Data (Attempt 1)
+2026-03-18 19:40:01.720575 - SUCCESS: Fetch Data
+2026-03-18 19:40:01.721151 - START: Load to DB (Attempt 1)
+2026-03-18 19:40:01.938810 - FAILED: Load to DB (Attempt 1)
+2026-03-18 19:40:01.939362 - START: Load to DB (Attempt 2)
+2026-03-18 19:40:02.081828 - FAILED: Load to DB (Attempt 2)
+2026-03-18 19:40:02.082685 - START: Load to DB (Attempt 3)
+2026-03-18 19:40:02.229385 - FAILED: Load to DB (Attempt 3)
+2026-03-18 19:40:02.229803 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 19:45:00.666205 - 🚀 Pipeline started
+2026-03-18 19:45:00.666921 - START: Fetch Data (Attempt 1)
+2026-03-18 19:45:01.573008 - SUCCESS: Fetch Data
+2026-03-18 19:45:01.573489 - START: Load to DB (Attempt 1)
+2026-03-18 19:45:01.721952 - FAILED: Load to DB (Attempt 1)
+2026-03-18 19:45:01.722434 - START: Load to DB (Attempt 2)
+2026-03-18 19:45:01.845389 - FAILED: Load to DB (Attempt 2)
+2026-03-18 19:45:01.845798 - START: Load to DB (Attempt 3)
+2026-03-18 19:45:01.954660 - FAILED: Load to DB (Attempt 3)
+2026-03-18 19:45:01.955067 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 19:50:00.473683 - 🚀 Pipeline started
+2026-03-18 19:50:00.474298 - START: Fetch Data (Attempt 1)
+2026-03-18 19:50:01.578287 - SUCCESS: Fetch Data
+2026-03-18 19:50:01.578870 - START: Load to DB (Attempt 1)
+2026-03-18 19:50:01.733410 - FAILED: Load to DB (Attempt 1)
+2026-03-18 19:50:01.733812 - START: Load to DB (Attempt 2)
+2026-03-18 19:50:01.847152 - FAILED: Load to DB (Attempt 2)
+2026-03-18 19:50:01.847580 - START: Load to DB (Attempt 3)
+2026-03-18 19:50:01.964182 - FAILED: Load to DB (Attempt 3)
+2026-03-18 19:50:01.964574 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 19:55:00.293456 - 🚀 Pipeline started
+2026-03-18 19:55:00.294317 - START: Fetch Data (Attempt 1)
+2026-03-18 19:55:01.419081 - SUCCESS: Fetch Data
+2026-03-18 19:55:01.419707 - START: Load to DB (Attempt 1)
+2026-03-18 19:55:01.571599 - FAILED: Load to DB (Attempt 1)
+2026-03-18 19:55:01.572024 - START: Load to DB (Attempt 2)
+2026-03-18 19:55:01.688514 - FAILED: Load to DB (Attempt 2)
+2026-03-18 19:55:01.688998 - START: Load to DB (Attempt 3)
+2026-03-18 19:55:01.802435 - FAILED: Load to DB (Attempt 3)
+2026-03-18 19:55:01.802889 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 20:00:01.157725 - 🚀 Pipeline started
+2026-03-18 20:00:01.158397 - START: Fetch Data (Attempt 1)
+2026-03-18 20:00:02.233609 - SUCCESS: Fetch Data
+2026-03-18 20:00:02.234117 - START: Load to DB (Attempt 1)
+2026-03-18 20:00:02.399214 - FAILED: Load to DB (Attempt 1)
+2026-03-18 20:00:02.399727 - START: Load to DB (Attempt 2)
+2026-03-18 20:00:02.551852 - FAILED: Load to DB (Attempt 2)
+2026-03-18 20:00:02.552628 - START: Load to DB (Attempt 3)
+2026-03-18 20:00:02.706455 - FAILED: Load to DB (Attempt 3)
+2026-03-18 20:00:02.707052 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 20:05:01.106025 - 🚀 Pipeline started
+2026-03-18 20:05:01.109135 - START: Fetch Data (Attempt 1)
+2026-03-18 20:05:02.123135 - SUCCESS: Fetch Data
+2026-03-18 20:05:02.123958 - START: Load to DB (Attempt 1)
+2026-03-18 20:05:02.278866 - FAILED: Load to DB (Attempt 1)
+2026-03-18 20:05:02.279325 - START: Load to DB (Attempt 2)
+2026-03-18 20:05:02.390486 - FAILED: Load to DB (Attempt 2)
+2026-03-18 20:05:02.390964 - START: Load to DB (Attempt 3)
+2026-03-18 20:05:02.517443 - FAILED: Load to DB (Attempt 3)
+2026-03-18 20:05:02.517866 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 20:10:00.986568 - 🚀 Pipeline started
+2026-03-18 20:10:00.987317 - START: Fetch Data (Attempt 1)
+2026-03-18 20:10:02.200793 - SUCCESS: Fetch Data
+2026-03-18 20:10:02.201497 - START: Load to DB (Attempt 1)
+2026-03-18 20:10:02.447230 - FAILED: Load to DB (Attempt 1)
+2026-03-18 20:10:02.448589 - START: Load to DB (Attempt 2)
+2026-03-18 20:10:02.620632 - FAILED: Load to DB (Attempt 2)
+2026-03-18 20:10:02.621103 - START: Load to DB (Attempt 3)
+2026-03-18 20:10:02.764090 - FAILED: Load to DB (Attempt 3)
+2026-03-18 20:10:02.764545 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 20:15:01.176883 - 🚀 Pipeline started
+2026-03-18 20:15:01.177412 - START: Fetch Data (Attempt 1)
+2026-03-18 20:15:02.240508 - SUCCESS: Fetch Data
+2026-03-18 20:15:02.241117 - START: Load to DB (Attempt 1)
+2026-03-18 20:15:02.400997 - FAILED: Load to DB (Attempt 1)
+2026-03-18 20:15:02.401599 - START: Load to DB (Attempt 2)
+2026-03-18 20:15:02.568131 - FAILED: Load to DB (Attempt 2)
+2026-03-18 20:15:02.568963 - START: Load to DB (Attempt 3)
+2026-03-18 20:15:02.722139 - FAILED: Load to DB (Attempt 3)
+2026-03-18 20:15:02.722728 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 20:20:01.124939 - 🚀 Pipeline started
+2026-03-18 20:20:01.125538 - START: Fetch Data (Attempt 1)
+2026-03-18 20:20:02.312457 - SUCCESS: Fetch Data
+2026-03-18 20:20:02.313096 - START: Load to DB (Attempt 1)
+2026-03-18 20:20:02.502690 - FAILED: Load to DB (Attempt 1)
+2026-03-18 20:20:02.503099 - START: Load to DB (Attempt 2)
+2026-03-18 20:20:02.622786 - FAILED: Load to DB (Attempt 2)
+2026-03-18 20:20:02.623780 - START: Load to DB (Attempt 3)
+2026-03-18 20:20:02.782123 - FAILED: Load to DB (Attempt 3)
+2026-03-18 20:20:02.782598 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 20:25:01.250623 - 🚀 Pipeline started
+2026-03-18 20:25:01.251191 - START: Fetch Data (Attempt 1)
+2026-03-18 20:25:02.101915 - SUCCESS: Fetch Data
+2026-03-18 20:25:02.102376 - START: Load to DB (Attempt 1)
+2026-03-18 20:25:02.238791 - FAILED: Load to DB (Attempt 1)
+2026-03-18 20:25:02.239136 - START: Load to DB (Attempt 2)
+2026-03-18 20:25:02.348654 - FAILED: Load to DB (Attempt 2)
+2026-03-18 20:25:02.349029 - START: Load to DB (Attempt 3)
+2026-03-18 20:25:02.539702 - FAILED: Load to DB (Attempt 3)
+2026-03-18 20:25:02.540171 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 20:30:00.987866 - 🚀 Pipeline started
+2026-03-18 20:30:00.988386 - START: Fetch Data (Attempt 1)
+2026-03-18 20:30:02.542561 - SUCCESS: Fetch Data
+2026-03-18 20:30:02.543348 - START: Load to DB (Attempt 1)
+2026-03-18 20:30:02.777801 - FAILED: Load to DB (Attempt 1)
+2026-03-18 20:30:02.778475 - START: Load to DB (Attempt 2)
+2026-03-18 20:30:02.901136 - FAILED: Load to DB (Attempt 2)
+2026-03-18 20:30:02.901554 - START: Load to DB (Attempt 3)
+2026-03-18 20:30:03.023708 - FAILED: Load to DB (Attempt 3)
+2026-03-18 20:30:03.024115 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 20:35:00.462361 - 🚀 Pipeline started
+2026-03-18 20:35:00.462915 - START: Fetch Data (Attempt 1)
+2026-03-18 20:35:01.382642 - SUCCESS: Fetch Data
+2026-03-18 20:35:01.384352 - START: Load to DB (Attempt 1)
+2026-03-18 20:35:01.549453 - FAILED: Load to DB (Attempt 1)
+2026-03-18 20:35:01.549853 - START: Load to DB (Attempt 2)
+2026-03-18 20:35:01.661124 - FAILED: Load to DB (Attempt 2)
+2026-03-18 20:35:01.661584 - START: Load to DB (Attempt 3)
+2026-03-18 20:35:01.768835 - FAILED: Load to DB (Attempt 3)
+2026-03-18 20:35:01.769261 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 20:40:01.193389 - 🚀 Pipeline started
+2026-03-18 20:40:01.194235 - START: Fetch Data (Attempt 1)
+2026-03-18 20:40:02.188789 - SUCCESS: Fetch Data
+2026-03-18 20:40:02.189482 - START: Load to DB (Attempt 1)
+2026-03-18 20:40:02.376426 - FAILED: Load to DB (Attempt 1)
+2026-03-18 20:40:02.376947 - START: Load to DB (Attempt 2)
+2026-03-18 20:40:02.549225 - FAILED: Load to DB (Attempt 2)
+2026-03-18 20:40:02.549810 - START: Load to DB (Attempt 3)
+2026-03-18 20:40:02.718932 - FAILED: Load to DB (Attempt 3)
+2026-03-18 20:40:02.719545 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 20:45:01.145164 - 🚀 Pipeline started
+2026-03-18 20:45:01.145765 - START: Fetch Data (Attempt 1)
+2026-03-18 20:45:02.828490 - SUCCESS: Fetch Data
+2026-03-18 20:45:02.829457 - START: Load to DB (Attempt 1)
+2026-03-18 20:45:02.966258 - FAILED: Load to DB (Attempt 1)
+2026-03-18 20:45:02.966665 - START: Load to DB (Attempt 2)
+2026-03-18 20:45:03.105342 - FAILED: Load to DB (Attempt 2)
+2026-03-18 20:45:03.105819 - START: Load to DB (Attempt 3)
+2026-03-18 20:45:03.249956 - FAILED: Load to DB (Attempt 3)
+2026-03-18 20:45:03.250549 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 20:50:00.759171 - 🚀 Pipeline started
+2026-03-18 20:50:00.759688 - START: Fetch Data (Attempt 1)
+2026-03-18 20:50:01.911482 - SUCCESS: Fetch Data
+2026-03-18 20:50:01.912132 - START: Load to DB (Attempt 1)
+2026-03-18 20:50:02.075339 - FAILED: Load to DB (Attempt 1)
+2026-03-18 20:50:02.075693 - START: Load to DB (Attempt 2)
+2026-03-18 20:50:02.195826 - FAILED: Load to DB (Attempt 2)
+2026-03-18 20:50:02.196271 - START: Load to DB (Attempt 3)
+2026-03-18 20:50:02.305144 - FAILED: Load to DB (Attempt 3)
+2026-03-18 20:50:02.305554 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 20:55:00.782920 - 🚀 Pipeline started
+2026-03-18 20:55:00.783551 - START: Fetch Data (Attempt 1)
+2026-03-18 20:55:01.875650 - SUCCESS: Fetch Data
+2026-03-18 20:55:01.876123 - START: Load to DB (Attempt 1)
+2026-03-18 20:55:02.029393 - FAILED: Load to DB (Attempt 1)
+2026-03-18 20:55:02.029811 - START: Load to DB (Attempt 2)
+2026-03-18 20:55:02.172767 - FAILED: Load to DB (Attempt 2)
+2026-03-18 20:55:02.173253 - START: Load to DB (Attempt 3)
+2026-03-18 20:55:02.383424 - FAILED: Load to DB (Attempt 3)
+2026-03-18 20:55:02.384138 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 21:00:00.900116 - 🚀 Pipeline started
+2026-03-18 21:00:00.900863 - START: Fetch Data (Attempt 1)
+2026-03-18 21:00:03.269836 - SUCCESS: Fetch Data
+2026-03-18 21:00:03.270590 - START: Load to DB (Attempt 1)
+2026-03-18 21:00:03.617738 - FAILED: Load to DB (Attempt 1)
+2026-03-18 21:00:03.618291 - START: Load to DB (Attempt 2)
+2026-03-18 21:00:03.755750 - FAILED: Load to DB (Attempt 2)
+2026-03-18 21:00:03.756242 - START: Load to DB (Attempt 3)
+2026-03-18 21:00:03.895356 - FAILED: Load to DB (Attempt 3)
+2026-03-18 21:00:03.896058 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 21:05:00.563128 - 🚀 Pipeline started
+2026-03-18 21:05:00.565714 - START: Fetch Data (Attempt 1)
+2026-03-18 21:05:01.867620 - SUCCESS: Fetch Data
+2026-03-18 21:05:01.868215 - START: Load to DB (Attempt 1)
+2026-03-18 21:05:02.125349 - FAILED: Load to DB (Attempt 1)
+2026-03-18 21:05:02.125937 - START: Load to DB (Attempt 2)
+2026-03-18 21:05:02.299040 - FAILED: Load to DB (Attempt 2)
+2026-03-18 21:05:02.299447 - START: Load to DB (Attempt 3)
+2026-03-18 21:05:02.439913 - FAILED: Load to DB (Attempt 3)
+2026-03-18 21:05:02.440331 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 21:10:00.886304 - 🚀 Pipeline started
+2026-03-18 21:10:00.886997 - START: Fetch Data (Attempt 1)
+2026-03-18 21:10:01.828469 - SUCCESS: Fetch Data
+2026-03-18 21:10:01.828934 - START: Load to DB (Attempt 1)
+2026-03-18 21:10:01.961323 - FAILED: Load to DB (Attempt 1)
+2026-03-18 21:10:01.961736 - START: Load to DB (Attempt 2)
+2026-03-18 21:10:02.126081 - FAILED: Load to DB (Attempt 2)
+2026-03-18 21:10:02.127034 - START: Load to DB (Attempt 3)
+2026-03-18 21:10:02.247694 - FAILED: Load to DB (Attempt 3)
+2026-03-18 21:10:02.248241 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 21:15:00.692833 - 🚀 Pipeline started
+2026-03-18 21:15:00.693410 - START: Fetch Data (Attempt 1)
+2026-03-18 21:15:01.744162 - SUCCESS: Fetch Data
+2026-03-18 21:15:01.744740 - START: Load to DB (Attempt 1)
+2026-03-18 21:15:01.880107 - FAILED: Load to DB (Attempt 1)
+2026-03-18 21:15:01.880488 - START: Load to DB (Attempt 2)
+2026-03-18 21:15:02.002353 - FAILED: Load to DB (Attempt 2)
+2026-03-18 21:15:02.002835 - START: Load to DB (Attempt 3)
+2026-03-18 21:15:02.135688 - FAILED: Load to DB (Attempt 3)
+2026-03-18 21:15:02.136106 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 21:20:00.607927 - 🚀 Pipeline started
+2026-03-18 21:20:00.609262 - START: Fetch Data (Attempt 1)
+2026-03-18 21:20:01.568036 - SUCCESS: Fetch Data
+2026-03-18 21:20:01.568614 - START: Load to DB (Attempt 1)
+2026-03-18 21:20:01.785114 - FAILED: Load to DB (Attempt 1)
+2026-03-18 21:20:01.785670 - START: Load to DB (Attempt 2)
+2026-03-18 21:20:01.981411 - FAILED: Load to DB (Attempt 2)
+2026-03-18 21:20:01.981873 - START: Load to DB (Attempt 3)
+2026-03-18 21:20:02.127786 - FAILED: Load to DB (Attempt 3)
+2026-03-18 21:20:02.128247 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 21:25:00.549645 - 🚀 Pipeline started
+2026-03-18 21:25:00.550437 - START: Fetch Data (Attempt 1)
+2026-03-18 21:25:01.521597 - SUCCESS: Fetch Data
+2026-03-18 21:25:01.522163 - START: Load to DB (Attempt 1)
+2026-03-18 21:25:01.658639 - FAILED: Load to DB (Attempt 1)
+2026-03-18 21:25:01.659041 - START: Load to DB (Attempt 2)
+2026-03-18 21:25:01.774720 - FAILED: Load to DB (Attempt 2)
+2026-03-18 21:25:01.775163 - START: Load to DB (Attempt 3)
+2026-03-18 21:25:01.885965 - FAILED: Load to DB (Attempt 3)
+2026-03-18 21:25:01.886471 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 21:30:00.248109 - 🚀 Pipeline started
+2026-03-18 21:30:00.248647 - START: Fetch Data (Attempt 1)
+2026-03-18 21:30:01.925794 - SUCCESS: Fetch Data
+2026-03-18 21:30:01.926562 - START: Load to DB (Attempt 1)
+2026-03-18 21:30:02.062587 - FAILED: Load to DB (Attempt 1)
+2026-03-18 21:30:02.063133 - START: Load to DB (Attempt 2)
+2026-03-18 21:30:02.206726 - FAILED: Load to DB (Attempt 2)
+2026-03-18 21:30:02.207849 - START: Load to DB (Attempt 3)
+2026-03-18 21:30:02.352968 - FAILED: Load to DB (Attempt 3)
+2026-03-18 21:30:02.353540 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 21:35:00.876299 - 🚀 Pipeline started
+2026-03-18 21:35:00.877385 - START: Fetch Data (Attempt 1)
+2026-03-18 21:35:01.921772 - SUCCESS: Fetch Data
+2026-03-18 21:35:01.922328 - START: Load to DB (Attempt 1)
+2026-03-18 21:35:02.088911 - FAILED: Load to DB (Attempt 1)
+2026-03-18 21:35:02.089424 - START: Load to DB (Attempt 2)
+2026-03-18 21:35:02.237044 - FAILED: Load to DB (Attempt 2)
+2026-03-18 21:35:02.237459 - START: Load to DB (Attempt 3)
+2026-03-18 21:35:02.385641 - FAILED: Load to DB (Attempt 3)
+2026-03-18 21:35:02.386218 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 21:40:00.868427 - 🚀 Pipeline started
+2026-03-18 21:40:00.868946 - START: Fetch Data (Attempt 1)
+2026-03-18 21:40:02.918369 - SUCCESS: Fetch Data
+2026-03-18 21:40:02.920111 - START: Load to DB (Attempt 1)
+2026-03-18 21:40:03.433550 - FAILED: Load to DB (Attempt 1)
+2026-03-18 21:40:03.434056 - START: Load to DB (Attempt 2)
+2026-03-18 21:40:03.620162 - FAILED: Load to DB (Attempt 2)
+2026-03-18 21:40:03.620559 - START: Load to DB (Attempt 3)
+2026-03-18 21:40:03.799294 - FAILED: Load to DB (Attempt 3)
+2026-03-18 21:40:03.799851 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 21:45:01.180692 - 🚀 Pipeline started
+2026-03-18 21:45:01.181291 - START: Fetch Data (Attempt 1)
+2026-03-18 21:45:02.701030 - SUCCESS: Fetch Data
+2026-03-18 21:45:02.702531 - START: Load to DB (Attempt 1)
+2026-03-18 21:45:03.311130 - FAILED: Load to DB (Attempt 1)
+2026-03-18 21:45:03.311854 - START: Load to DB (Attempt 2)
+2026-03-18 21:45:03.483520 - FAILED: Load to DB (Attempt 2)
+2026-03-18 21:45:03.483984 - START: Load to DB (Attempt 3)
+2026-03-18 21:45:03.649407 - FAILED: Load to DB (Attempt 3)
+2026-03-18 21:45:03.649865 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 21:50:01.077589 - 🚀 Pipeline started
+2026-03-18 21:50:01.078279 - START: Fetch Data (Attempt 1)
+2026-03-18 21:50:02.046808 - SUCCESS: Fetch Data
+2026-03-18 21:50:02.047307 - START: Load to DB (Attempt 1)
+2026-03-18 21:50:02.188962 - FAILED: Load to DB (Attempt 1)
+2026-03-18 21:50:02.189481 - START: Load to DB (Attempt 2)
+2026-03-18 21:50:02.321799 - FAILED: Load to DB (Attempt 2)
+2026-03-18 21:50:02.322211 - START: Load to DB (Attempt 3)
+2026-03-18 21:50:02.440405 - FAILED: Load to DB (Attempt 3)
+2026-03-18 21:50:02.440997 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 21:55:00.830088 - 🚀 Pipeline started
+2026-03-18 21:55:00.830690 - START: Fetch Data (Attempt 1)
+2026-03-18 21:55:01.749629 - SUCCESS: Fetch Data
+2026-03-18 21:55:01.750265 - START: Load to DB (Attempt 1)
+2026-03-18 21:55:01.897311 - FAILED: Load to DB (Attempt 1)
+2026-03-18 21:55:01.897687 - START: Load to DB (Attempt 2)
+2026-03-18 21:55:02.001344 - FAILED: Load to DB (Attempt 2)
+2026-03-18 21:55:02.001794 - START: Load to DB (Attempt 3)
+2026-03-18 21:55:02.111264 - FAILED: Load to DB (Attempt 3)
+2026-03-18 21:55:02.111735 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 22:00:00.537071 - 🚀 Pipeline started
+2026-03-18 22:00:00.537702 - START: Fetch Data (Attempt 1)
+2026-03-18 22:00:01.475153 - SUCCESS: Fetch Data
+2026-03-18 22:00:01.475714 - START: Load to DB (Attempt 1)
+2026-03-18 22:00:01.666516 - FAILED: Load to DB (Attempt 1)
+2026-03-18 22:00:01.666916 - START: Load to DB (Attempt 2)
+2026-03-18 22:00:01.783424 - FAILED: Load to DB (Attempt 2)
+2026-03-18 22:00:01.783870 - START: Load to DB (Attempt 3)
+2026-03-18 22:00:01.901456 - FAILED: Load to DB (Attempt 3)
+2026-03-18 22:00:01.901927 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 22:05:00.589946 - 🚀 Pipeline started
+2026-03-18 22:05:00.590640 - START: Fetch Data (Attempt 1)
+2026-03-18 22:05:01.778034 - SUCCESS: Fetch Data
+2026-03-18 22:05:01.779105 - START: Load to DB (Attempt 1)
+2026-03-18 22:05:02.024104 - FAILED: Load to DB (Attempt 1)
+2026-03-18 22:05:02.025678 - START: Load to DB (Attempt 2)
+2026-03-18 22:05:02.185147 - FAILED: Load to DB (Attempt 2)
+2026-03-18 22:05:02.185559 - START: Load to DB (Attempt 3)
+2026-03-18 22:05:02.411278 - FAILED: Load to DB (Attempt 3)
+2026-03-18 22:05:02.411759 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 22:10:00.739413 - 🚀 Pipeline started
+2026-03-18 22:10:00.740403 - START: Fetch Data (Attempt 1)
+2026-03-18 22:10:01.718028 - SUCCESS: Fetch Data
+2026-03-18 22:10:01.718469 - START: Load to DB (Attempt 1)
+2026-03-18 22:10:01.858893 - FAILED: Load to DB (Attempt 1)
+2026-03-18 22:10:01.859673 - START: Load to DB (Attempt 2)
+2026-03-18 22:10:02.005830 - FAILED: Load to DB (Attempt 2)
+2026-03-18 22:10:02.006461 - START: Load to DB (Attempt 3)
+2026-03-18 22:10:02.153658 - FAILED: Load to DB (Attempt 3)
+2026-03-18 22:10:02.154226 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 22:15:00.612609 - 🚀 Pipeline started
+2026-03-18 22:15:00.613053 - START: Fetch Data (Attempt 1)
+2026-03-18 22:15:01.693745 - SUCCESS: Fetch Data
+2026-03-18 22:15:01.694280 - START: Load to DB (Attempt 1)
+2026-03-18 22:15:01.849022 - FAILED: Load to DB (Attempt 1)
+2026-03-18 22:15:01.849422 - START: Load to DB (Attempt 2)
+2026-03-18 22:15:01.971618 - FAILED: Load to DB (Attempt 2)
+2026-03-18 22:15:01.972138 - START: Load to DB (Attempt 3)
+2026-03-18 22:15:02.350509 - FAILED: Load to DB (Attempt 3)
+2026-03-18 22:15:02.350946 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 22:20:00.709135 - 🚀 Pipeline started
+2026-03-18 22:20:00.709580 - START: Fetch Data (Attempt 1)
+2026-03-18 22:20:01.600430 - SUCCESS: Fetch Data
+2026-03-18 22:20:01.600827 - START: Load to DB (Attempt 1)
+2026-03-18 22:20:01.735676 - FAILED: Load to DB (Attempt 1)
+2026-03-18 22:20:01.736091 - START: Load to DB (Attempt 2)
+2026-03-18 22:20:01.847420 - FAILED: Load to DB (Attempt 2)
+2026-03-18 22:20:01.847942 - START: Load to DB (Attempt 3)
+2026-03-18 22:20:01.967920 - FAILED: Load to DB (Attempt 3)
+2026-03-18 22:20:01.968580 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 22:25:00.415797 - 🚀 Pipeline started
+2026-03-18 22:25:00.416360 - START: Fetch Data (Attempt 1)
+2026-03-18 22:25:01.368226 - SUCCESS: Fetch Data
+2026-03-18 22:25:01.368817 - START: Load to DB (Attempt 1)
+2026-03-18 22:25:01.501855 - FAILED: Load to DB (Attempt 1)
+2026-03-18 22:25:01.502207 - START: Load to DB (Attempt 2)
+2026-03-18 22:25:01.615239 - FAILED: Load to DB (Attempt 2)
+2026-03-18 22:25:01.615706 - START: Load to DB (Attempt 3)
+2026-03-18 22:25:01.725341 - FAILED: Load to DB (Attempt 3)
+2026-03-18 22:25:01.725788 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 22:35:27.183449 - 🚀 Pipeline started
+2026-03-18 22:35:27.184123 - START: Fetch Data (Attempt 1)
+2026-03-18 22:35:31.241761 - SUCCESS: Fetch Data
+2026-03-18 22:35:31.242346 - START: Load to DB (Attempt 1)
+2026-03-18 22:35:31.594936 - FAILED: Load to DB (Attempt 1)
+2026-03-18 22:35:31.595806 - START: Load to DB (Attempt 2)
+2026-03-18 22:35:31.874236 - FAILED: Load to DB (Attempt 2)
+2026-03-18 22:35:31.874682 - START: Load to DB (Attempt 3)
+2026-03-18 22:35:32.086598 - FAILED: Load to DB (Attempt 3)
+2026-03-18 22:35:32.087168 - ❌ FINAL FAILURE: Load to DB
+2026-03-18 23:40:00.664928 - 🚀 Pipeline started
+2026-03-18 23:40:00.665476 - START: Fetch Data (Attempt 1)
+2026-03-18 23:40:01.673822 - SUCCESS: Fetch Data
+2026-03-18 23:40:01.674762 - START: Load to DB (Attempt 1)
+2026-03-18 23:40:01.838878 - FAILED: Load to DB (Attempt 1)
+2026-03-18 23:40:01.839251 - START: Load to DB (Attempt 2)
+2026-03-18 23:40:01.972461 - FAILED: Load to DB (Attempt 2)
+2026-03-18 23:40:01.972913 - START: Load to DB (Attempt 3)
+2026-03-18 23:40:02.123285 - FAILED: Load to DB (Attempt 3)
+2026-03-18 23:40:02.123980 - ❌ FINAL FAILURE: Load to DB
+2026-03-19 00:07:33.477016 - 🚀 Pipeline started
+2026-03-19 00:07:33.477653 - START: Fetch Data (Attempt 1)
+2026-03-19 00:22:57.782479 - SUCCESS: Fetch Data
+2026-03-19 00:22:57.783342 - START: Load to DB (Attempt 1)
+2026-03-19 00:22:58.050393 - FAILED: Load to DB (Attempt 1)
+2026-03-19 00:22:58.050770 - START: Load to DB (Attempt 2)
+2026-03-19 00:22:58.170140 - FAILED: Load to DB (Attempt 2)
+2026-03-19 00:22:58.170449 - START: Load to DB (Attempt 3)
+2026-03-19 00:22:58.499726 - FAILED: Load to DB (Attempt 3)
+2026-03-19 00:22:58.521886 - ❌ FINAL FAILURE: Load to DB
+2026-03-19 02:40:00.989749 - 🚀 Pipeline started
+2026-03-19 02:40:00.990131 - START: Fetch Data (Attempt 1)
+2026-03-19 02:40:01.818932 - SUCCESS: Fetch Data
+2026-03-19 02:40:01.819452 - START: Load to DB (Attempt 1)
+2026-03-19 02:40:01.960818 - FAILED: Load to DB (Attempt 1)
+2026-03-19 02:40:01.961177 - START: Load to DB (Attempt 2)
+2026-03-19 02:40:02.072664 - FAILED: Load to DB (Attempt 2)
+2026-03-19 02:40:02.073097 - START: Load to DB (Attempt 3)
+2026-03-19 02:40:02.181367 - FAILED: Load to DB (Attempt 3)
+2026-03-19 02:40:02.181729 - ❌ FINAL FAILURE: Load to DB
+2026-03-19 07:45:01.726701 - 🚀 Pipeline started
+2026-03-19 07:45:01.727945 - START: Fetch Data (Attempt 1)
+2026-03-19 07:45:04.669958 - SUCCESS: Fetch Data
+2026-03-19 07:45:04.670880 - START: Load to DB (Attempt 1)
+2026-03-19 07:45:05.369445 - FAILED: Load to DB (Attempt 1)
+2026-03-19 07:45:05.370170 - START: Load to DB (Attempt 2)
+2026-03-19 07:45:05.737232 - FAILED: Load to DB (Attempt 2)
+2026-03-19 07:45:05.737853 - START: Load to DB (Attempt 3)
+2026-03-19 07:45:06.067363 - FAILED: Load to DB (Attempt 3)
+2026-03-19 07:45:06.068290 - ❌ FINAL FAILURE: Load to DB
+2026-03-19 08:45:39.076726 - 🚀 Pipeline started
+2026-03-19 08:45:39.077404 - START: Fetch Data (Attempt 1)
+2026-03-19 08:45:40.065090 - SUCCESS: Fetch Data
+2026-03-19 08:45:40.065762 - START: Load to DB (Attempt 1)
+2026-03-19 08:45:40.208947 - FAILED: Load to DB (Attempt 1)
+2026-03-19 08:45:40.209328 - START: Load to DB (Attempt 2)
+2026-03-19 08:45:40.315688 - FAILED: Load to DB (Attempt 2)
+2026-03-19 08:45:40.316096 - START: Load to DB (Attempt 3)
+2026-03-19 08:45:40.437992 - FAILED: Load to DB (Attempt 3)
+2026-03-19 08:45:40.438380 - ❌ FINAL FAILURE: Load to DB
+2026-03-19 12:50:00.961024 - 🚀 Pipeline started
+2026-03-19 12:50:00.961576 - START: Fetch Data (Attempt 1)
+2026-03-19 12:50:01.778637 - SUCCESS: Fetch Data
+2026-03-19 12:50:01.779220 - START: Load to DB (Attempt 1)
+2026-03-19 12:50:01.921143 - FAILED: Load to DB (Attempt 1)
+2026-03-19 12:50:01.921828 - START: Load to DB (Attempt 2)
+2026-03-19 12:50:02.060720 - FAILED: Load to DB (Attempt 2)
+2026-03-19 12:50:02.061203 - START: Load to DB (Attempt 3)
+2026-03-19 12:50:02.185303 - FAILED: Load to DB (Attempt 3)
+2026-03-19 12:50:02.186039 - ❌ FINAL FAILURE: Load to DB
+2026-03-19 13:20:00.681788 - 🚀 Pipeline started
+2026-03-19 13:20:00.682459 - START: Fetch Data (Attempt 1)
+2026-03-19 13:20:01.823165 - SUCCESS: Fetch Data
+2026-03-19 13:20:01.823866 - START: Load to DB (Attempt 1)
+2026-03-19 13:20:01.987871 - FAILED: Load to DB (Attempt 1)
+2026-03-19 13:20:01.988351 - START: Load to DB (Attempt 2)
+2026-03-19 13:20:02.254587 - FAILED: Load to DB (Attempt 2)
+2026-03-19 13:20:02.255147 - START: Load to DB (Attempt 3)
+2026-03-19 13:20:02.416377 - FAILED: Load to DB (Attempt 3)
+2026-03-19 13:20:02.416795 - ❌ FINAL FAILURE: Load to DB
+2026-03-19 13:25:00.832871 - 🚀 Pipeline started
+2026-03-19 13:25:00.833448 - START: Fetch Data (Attempt 1)
+2026-03-19 13:25:01.706434 - SUCCESS: Fetch Data
+2026-03-19 13:25:01.706943 - START: Load to DB (Attempt 1)
+2026-03-19 13:25:01.835464 - FAILED: Load to DB (Attempt 1)
+2026-03-19 13:25:01.835823 - START: Load to DB (Attempt 2)
+2026-03-19 13:25:01.960162 - FAILED: Load to DB (Attempt 2)
+2026-03-19 13:25:01.960677 - START: Load to DB (Attempt 3)
+2026-03-19 13:25:02.084054 - FAILED: Load to DB (Attempt 3)
+2026-03-19 13:25:02.084450 - ❌ FINAL FAILURE: Load to DB

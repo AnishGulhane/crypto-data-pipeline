@@ -1,0 +1,42 @@
+[2026-03-18T11:15:06.213+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-03-18T11:15:06.226+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: crypto_pipeline.load_data scheduled__2026-03-18T11:05:00+00:00 [queued]>
+[2026-03-18T11:15:06.230+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: crypto_pipeline.load_data scheduled__2026-03-18T11:05:00+00:00 [queued]>
+[2026-03-18T11:15:06.230+0000] {taskinstance.py:2306} INFO - Starting attempt 2 of 2
+[2026-03-18T11:15:06.235+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): load_data> on 2026-03-18 11:05:00+00:00
+[2026-03-18T11:15:06.241+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=710) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2026-03-18T11:15:06.243+0000] {standard_task_runner.py:63} INFO - Started process 712 to run task
+[2026-03-18T11:15:06.242+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'crypto_pipeline', 'load_data', 'scheduled__2026-03-18T11:05:00+00:00', '--job-id', '147', '--raw', '--subdir', 'DAGS_FOLDER/crypto_pipeline_dag.py', '--cfg-path', '/tmp/tmp7yjlka6m']
+[2026-03-18T11:15:06.245+0000] {standard_task_runner.py:91} INFO - Job 147: Subtask load_data
+[2026-03-18T11:15:06.302+0000] {task_command.py:426} INFO - Running <TaskInstance: crypto_pipeline.load_data scheduled__2026-03-18T11:05:00+00:00 [running]> on host f0b92a5e8d09
+[2026-03-18T11:15:06.379+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='anish' AIRFLOW_CTX_DAG_ID='crypto_pipeline' AIRFLOW_CTX_TASK_ID='load_data' AIRFLOW_CTX_EXECUTION_DATE='2026-03-18T11:05:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-03-18T11:05:00+00:00'
+[2026-03-18T11:15:06.381+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-03-18T11:15:06.382+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2026-03-18T11:15:06.382+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /opt/***/scripts/load_to_db.py']
+[2026-03-18T11:15:06.388+0000] {subprocess.py:86} INFO - Output:
+[2026-03-18T11:15:06.433+0000] {subprocess.py:93} INFO -   File "/opt/***/scripts/load_to_db.py", line 27
+[2026-03-18T11:15:06.433+0000] {subprocess.py:93} INFO -     print("Data loaded into database with timestamp")import pandas as pd
+[2026-03-18T11:15:06.433+0000] {subprocess.py:93} INFO -                                                      ^^^^^^
+[2026-03-18T11:15:06.433+0000] {subprocess.py:93} INFO - SyntaxError: invalid syntax
+[2026-03-18T11:15:06.435+0000] {subprocess.py:97} INFO - Command exited with return code 1
+[2026-03-18T11:15:06.435+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-03-18T11:15:06.441+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 400, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 243, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2026-03-18T11:15:06.444+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=crypto_pipeline, task_id=load_data, run_id=scheduled__2026-03-18T11:05:00+00:00, execution_date=20260318T110500, start_date=20260318T111506, end_date=20260318T111506
+[2026-03-18T11:15:06.450+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 147 for task load_data (Bash command failed. The command returned a non-zero exit code 1.; 712)
+[2026-03-18T11:15:06.467+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2026-03-18T11:15:06.482+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-03-18T11:15:06.484+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

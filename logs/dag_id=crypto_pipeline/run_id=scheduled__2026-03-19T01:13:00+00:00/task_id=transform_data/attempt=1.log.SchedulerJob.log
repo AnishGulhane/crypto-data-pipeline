@@ -1,0 +1,1 @@
+[2026-03-19T02:14:40.119+0000] {task_context_logger.py:104} WARNING - Marking task instance <TaskInstance: crypto_pipeline.transform_data scheduled__2026-03-19T01:13:00+00:00 [queued]> stuck in queued as failed. If the task instance has available retries, it will be retried.

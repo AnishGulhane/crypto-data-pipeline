@@ -1,0 +1,3 @@
+[2026-03-18T08:47:17.914+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-03-18T08:47:18.124+0000] {taskinstance.py:2066} INFO - Dependencies not met for <TaskInstance: crypto_pipeline.load_data manual__2026-03-18T07:56:40.656232+00:00 [failed]>, dependency 'Task Instance State' FAILED: Task is in the 'failed' state.
+[2026-03-18T08:47:18.140+0000] {local_task_job_runner.py:163} INFO - Task is not able to be run
