@@ -3,9 +3,8 @@ import pandas as pd
 import psycopg2
 import plotly.graph_objects as go
 from dotenv import load_dotenv
-import os
-
 load_dotenv()
+import os
 
 from streamlit_autorefresh import st_autorefresh
 
