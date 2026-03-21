@@ -2,6 +2,7 @@
 
 ### Real-Time Crypto Data Pipeline & Analytics Dashboard
 
+
 ---
 
 ## 📌 Overview
@@ -11,6 +12,8 @@ CryptoFlux Terminal is an end-to-end real-time data engineering project designed
 ---
 
 ## ⚙️ Architecture
+
+<img width="2554" height="1436" alt="image" src="https://github.com/user-attachments/assets/a3303754-55d1-479f-b89c-d8611e2ad705" />
 
 **API → Airflow → PostgreSQL → Streamlit**
 
